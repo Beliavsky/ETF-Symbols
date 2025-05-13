@@ -1,0 +1,385 @@
+*Broad market ETFs
+IWV iShares Russell 3000 Index
+SCHB Schwab U.S. Broad Market ETF
+VT Vanguard Total World Stock
+VTHR Vanguard Russell 3000
+VTI Vanguard Total Stock Market
+WFVK Wilshire 5000 Total Market
+
+*Large-cap ETFs
+IWB iShares Russell 1000 Index
+IWF iShares Russell 1000 Growth Index
+IWD iShares Russell 1000 Value Index
+IVV iShares S&P 500 Index
+IVW iShares S&P 500 Growth Index
+IVE iShares S&P 500 Value Index
+SCHX Schwab U.S. Large-Cap
+SCHG Schwab U.S. Large-Cap Growth
+SCHV Schwab U.S. Large-Cap Value
+SCHD Schwab U.S. Dividend Equity
+SPY SPDR S&P 500
+SPYG SPDR S&P 500 Growth
+SPYV SPDR S&P 500 Value
+VOO Vanguard S&P 500
+VOOG Vanguard S&P 500 Growth
+VOOV Vanguard S&P 500 Value
+VV Vanguard Large-Cap
+VUG Vanguard Growth
+VTV Vanguard Value
+MGC Vanguard Mega-Cap 300
+MGK Vanguard Mega-Cap 300 Growth
+MGV Vanguard Mega-Cap 300 Value
+VONE Vanguard Russell 1000
+VONG Vanguard Russell 1000 Growth
+VONV Vanguard Russell 1000 Value
+VIG Vanguard Dividend Appreciation
+VYM Vanguard High Dividend Yield
+
+*Mid-cap ETFs
+IWR iShares Russell Midcap Index
+IWP iShares Russell Midcap Growth Index
+IWS iShares Russell Midcap Value Index
+IJH iShares S&P MidCap 400 Index
+IJK Shares S&P MidCap 400 Growth Index
+IJJ iShares S&P MidCap 400 Value Index
+SCHM Schwab U.S. Mid-Cap
+MDY SPDR S&P Mid Cap 400
+MDYG SPDR S&P Mid Cap 400 Growth
+MDYV SPDR S&P Mid Cap 400 Value
+IVOO Vanguard S&P Mid-Cap 400
+IVOG Vanguard S&P Mid-Cap 400 Growth
+IVOV Vanguard S&P Mid-Cap 400 Value
+VO Vanguard Mid-Cap
+VOT Vanguard Mid-Cap Growth
+VOE Vanguard Mid-Cap Value
+VXF Vanguard Extended Market
+WXSP Wilshire 4500 ETF
+
+*Small-cap ETFs
+IWM iShares Russell 2000 Index
+IWN iShares Russell 2000 Value Index
+IWO iShares Russell 2000 Growth Index
+IJR Shares S&P SmallCap 600 Index
+IJT iShares S&P SmallCap 600 Growth Index
+IJS iShares S&P SmallCap 600 Value Index
+SCHA Schwab U.S. Small-Cap
+SLY SPDR Small Cap S&P 600
+SLYG SPDR Small Cap S&P 600 Growth
+SLYG SPDR Small Cap S&P 600 Value
+VIOO Vanguard S&P Small-Cap 600
+VIOG Vanguard S&P Small-Cap 600 Growth
+VIOV Vanguard S&P Small-Cap 600 Value
+VB Vanguard Small-Cap
+VBK Vanguard Small-Cap Growth
+VBR Vanguard Small-Cap Value
+VTWO Vanguard Russell 2000
+VTWG Vanguard Russell 2000 Growth
+VTWV Vanguard Russell 2000 Value
+
+*Consumer sector ETFs
+XLY Consumer Discretionary Select Sector SPDR
+XLP Consumer Staples Select Sector SPDR
+IYK iShares Dow Jones US Consumer Goods
+IYC iShares Dow Jones US Consumer Services
+VCR Vanguard Consumer Discretionary
+VDC Vanguard Consumer Staples
+
+*Energy sector ETFs
+XLE Energy Select Sector SPDR
+IYE iShares Dow Jones US Energy
+VDE Vanguard Energy
+
+*Financial sector ETFs
+XLF Financial Select Sector SPDR
+IYF iShares Dow Jones US Financial
+VFH Vanguard Financials
+
+*Healthcare sector ETFs
+XLV Health Care Select Sector SPDR
+IYH iShares Dow Jones US Health Care
+VHC Vanguard Health Care
+
+*Industrial sectors ETFs
+XLI Industrial Select Sector SPDR
+IYJ iShares Dow Jones US Industrial
+VIS Vanguard Industrials
+
+*Materials sector ETFs
+XLB Materials Select Sector SPDR
+IYM iShares Dow Jones US Materials
+VAW Vanguard Materials
+
+*Real estate ETFs
+ICF iShares Cohen & Steers Realty Majors
+IYR iShares Dow Jones US Real Estate
+SCHH Schwab U.S. REIT ETF
+RWR SPDR Dow Jones REIT ETF
+VNQ Vanguard REIT
+WREI Wilshire US REIT ETF
+
+*Technology sector ETFs
+XLK Technology Select Sector SPDR
+IYW iShares Dow Jones US Technology
+VGT Vanguard Information Technology
+
+*Telecom sector ETFs
+IYZ iShares Dow Jones US Telecommunications
+VOX Vanguard Telecommunication Services
+
+*Utilities sector ETFs
+XLU Select Sector Utilities SPDR
+IDU iShares Dow Jones US Utilities
+VPU Vanguard Utilities
+
+*Broad ex-US ETFs
+ACWX iShares MSCI ACWI ex-US Index
+CWI SPDR MSCI AWCI ex-US ETF
+VXUS Vanguard Total International Stock
+VEU Vanguard FTSE All-World ex-US
+VSS Vanguard FTSE All-World ex-US Small-Cap
+
+*Regional ex-US ETFs
+AND Global X FTSE Andean 40 ETF
+GXF Global X FTSE Nordic Region
+EFA iShares MSCI EAFE Index
+EFG iShares MSCI EAFE Growth Index
+EFV iShares MSCI EAFE Value Index
+SCZ iShares MSCI EAFE Small Cap Index
+EZU iShares MSCI EMU Index
+EPP iShares MSCI Pacific ex-Japan
+IEV iShares S&P Europe 350 Index
+ILF iShares S&P Latin America 40 Index
+SCHF Schwab International Equity
+SCHC Schwab International Small-Cap Equity
+MDD SPDR S&P International Mid Cap ETF
+GWX SPDR S&P International Small Cap ETF
+VEA Vanguard MSCI EAFE
+VGK Vanguard FTSE Europe
+VPL Vanguard FTSE Pacific
+
+*Emerging markets ETFs
+EMGX Global X Russell Emerging Markets Growth ETF
+EMVX Global X Russell Emerging Markets Value ETF
+EEB Guggenheim BRIC ETF
+EEM iShares MSCI Emerging Markets Index
+EEMS iShares MSCI Emerging Markets Small Cap Index
+BKF iShares MSCI BRIC Index
+SCHE Schwab Emerging Markets Equity ETF
+GMM SPDR S&P Emerging Markets ETF
+EWX SPDR S&P Emerging Markets Small Cap ETF
+VWO Vanguard MSCI Emerging Markets
+
+*Country ETFs: Developed ex-US markets
+NORW Global X FTSE Norway 30 ETF
+EWA iShares MSCI Australia Index
+EWO iShares MSCI Austria Investable Index
+EWK iShares MSCI Belgium Investable Index
+EWC iShares MSCI Canada Index
+EWQ iShares MSCI France Index
+EWG iShares MSCI German Index
+EWI iShares MSCI Italy Index
+EWJ iShares MSCI Japan Index
+EWP iShares MSCI Spain Index
+EWD iShares MSCI Sweden Index
+EWL iShares MSCI Switzerland Index
+EWU iShares MSCI United Kingdom Index
+
+*Country ETFs: Emerging markets
+ARGT Global X FTSE Argentina 20 ETF
+BRAF Global X Brazil Financials ETF
+BRAQ Global X Brazil Consumer ETF
+BRAZ Global X Brazil Mid Cap ETF
+GXG Global X FTSE Colombia 20 ETF
+MEXS Global X Mexico Small-Cap ETF
+EWZ iShares MSCI Brazil Index
+FXI iShares FTSE/Xinhua China 25 Index
+EWH iShares MSCI Hong Kong Index
+EWW iShares MSCI Mexico Index
+ERUS iShares Russia Capped Index
+EWS iShares MSCI Singapore Index
+EWM iShares MSCI Malaysia Index
+EWY iShares MSCI South Korea Index
+EWT iShares MSCI Taiwan Index
+RSX Market Vectors Russia ETF
+RBL SPDR S&P Russia ETF
+
+*Global Consumer sector ETFs
+RXI iShares S&P Global Consumer Discretionary
+KXI iShares S&P Global Consumer Staples
+IPD SPDR S&P International Consumer Discretionary
+
+*Global Energy sector ETFs
+IXC iShares S&P Global Energy
+IPW SPDR S&P International Energy
+
+*Global Financial sector ETFs
+IXG iShares S&P Global Financial
+IPF SPDR S&P International Financial
+
+*Global Healthcare sector ETFs
+IXJ iShares S&P Global Healthcare
+IRY SPDR S&P International Health Care
+
+*Global Industrial sectors ETFs
+EXI iShares S&P Global Industrials
+IPN SPDR S&P International Industrial
+
+*Global Materials sector ETFs
+MXI iShares S7P Global Materials
+IRV SPDR S&P International Materials
+
+*Global Real estate
+IFAS iShares Dow Jones Asia Real Estate
+IFNA iShares Dow Jones North America Real Estate
+RWX SPDR Dow Jones International REIT ETF
+VNQI Vanguard Global ex-US Real Estate
+
+*Global Technology sector ETFs
+IXN iShares S&P Global Technology
+IPK SPDR S&P International Technology
+
+*Global Telecom sector ETFs
+IXP iShares S&P Global Telecommunications
+IST SPDR S&P International Telecommunications
+
+*Utilities sector ETFs
+JXI iShares S&P Global Utilities
+IPU SPDR S&P International Utilities
+
+*Taxable US bonds: Broad market
+AGG iShares Barclays Capital Aggregate Bond
+SCHZ Schwab U.S. Aggregate Bond ETF
+LAG SPDR Barclays Capital Aggregate Bond
+BND Vanguard Total Bond Market
+BSV Vanguard Short-Term Bond
+BIV Vanguard Intermediate-Term Bond
+BLV Vanguard Long-Term Bond
+
+*Short Treasury bonds
+SHY iShares Barclays 1-3 Year Treasury Bond
+TUZ PIMCO 1-3 Year U.S. Treasury Index Fund
+SCHO Schwab Short-Term U.S. Treasury ETF
+VGSH Vanguard Short-Term Government Bond
+
+*Intermediate Treasury bonds
+IEF iShares Barclays 7-10 Year Treasury
+FIVZ PIMCO 3-7 Year U.S. Treasury Index Fund
+SCHR Schwab Intermediate-Term U.S. Treasury ETF
+SPTI SPDR Portfolio Intermediate Term Treasury ETF
+VGIT Vanguard Intermediate-Term Government Bond
+
+*Long Treasury bonds
+TLT iShares Barclays 20+ Year Treasury Bond
+TENZ PIMCO 7-15 Year U.S. Treasury Index Fund
+TLO SPDR Barclays Capital Long Term Treasury
+VGLT Vanguard Long-Term Government Bond
+EDV Vanguard Extended Duration Treasury
+
+*Treasury Inflation Protected Securities
+STIP iShares Barclays 0-5 Year TIPS Bond Fund
+TIP iShares Barclays TIPS Bond
+STPZ PIMCO 1-5 Year US TIPS Index Fund
+LTPZ PIMCO 15 Year US TIPS Index Fund
+TIPZ PIMCO Broad U.S. TIPS Index Fund
+SCHP Schwab U.S. TIPS ETF
+IPE SPDR Barclays Capital TIPs Bond
+VTIP Vanguard Short-Term Inflation-Protected Securities
+
+*Short corporate bonds
+IGSB iShares Short-Term Corporate Bond
+SCPB SPDR Barclays Capital Short Term Corporate
+VCSH Vanguard Short-Term Corporate Bond
+
+*Intermediate corporate bonds
+IGIB iShares Barclays Intermediate-Term Corporate Bond
+CORP PIMCO Investment Grade Corporate Bond Index Fund
+ITR SPDR Barclays Capital Intermediate Bond
+VCIT Vanguard Intermediate-Term Corporate Bond
+
+*Long corporate bonds
+LQD iShares iBoxx $ Investment Grade Corporate Bond
+IGLB iShares Long-Term Corporate Bond
+LWC SPDR Barclays Capital Long Term Bond
+VCLT Vanguard Long-Term Corporate Bond
+
+*Mortgage backed securities
+MBB Shares Barclays MBS Bond Fund
+MBG SPDR Barclays Capital Mortgage Backed Bond
+VMBS Vanguard Mortgage-Backed Securities
+
+*Floating rate bonds
+FLOT iSharesFloating Rate Note Fund
+FLTR Market Vectors Investment Grade Floating Rate ETF
+BKLN PowerShares Senior Loan Portfolio
+
+*High yield bonds
+HYG iShares iBoxx $ High Yield Corporate Bond
+PHB PowerShares High Yield Corporate Bond Portfolio
+JNK SPDR Barclays Capital High Yield Bond ETF
+
+*Short municipal bonds
+SUB iShares S&P Short Term National AMT-Free
+SHM SPDR Nuveen Barclays Capital ST Municipal Bond
+
+*Long municipal bonds
+MUB iShares S&P National AMT-Free
+TFI SPDR Nuveen Barclays Capital Municipal Bond
+
+*International developed bonds
+ISHG iShares S&P/Citigroup 1-3 Yr International Treasury
+BWZ SPDR Barclays Capital ST International Treasury
+IGOV iShares S&P/Citigroup International Treasury
+BWX SPDR Barclays Capital International Treasury
+ITIP iShares International Inflation-Linked Bond
+WIP SPDR DB International Government Inflation-Protected
+IBND SPDR Barclays Capital International Corporate Bond
+
+*Emerging market bonds
+EMB iShares JPMorgan USD EM Bond
+EMLC Market Vectors EM Local Currency Bond
+PCY PowerShares EM Sovereign Debt Portfolio
+EBND SPDR Barclays Capital EM Local Bond
+
+*Agricultural ETFs
+RJA ELEMENTS Rogers Agriculture ETN
+SOIL Global X Fertilizers/Potash ETF
+BARN Global X Farming ETF
+JJA iPath Dow Jones-AIG Agriculture ETN
+DBA PowerShares DB Agriculture
+
+*Energy commodity ETFs
+RJN ELEMENTS Rogers Energy ETN
+URA Global X Uranium ETF
+XOIL Global X Oil Equities ETF
+LIT Global X Lithium ETF
+OIL iPath S&P GSCI Crude Oil Total Return Index ETN
+GAZ iPath Dow Jones-UBS Natural Gas Subindex Total ReturnSM ETN
+UNG United States Natural Gas Fund
+USO United States Oil Fund
+
+*Industrial commodity ETFs
+RJZ ELEMENTS Rogers Metal ETN
+ALUM Global X Aluminum ETF
+COPX Global X Copper Miners ETF
+JJM iPath Dow Jones-AIG Industrial Metals ETN
+JJC iPath Dow Jones-AIG Copper ETN
+DBB PowerShares DB Base Metals
+
+*Gold
+IAU iShares COMEX Gold Trust
+GLD SPDR Gold Shares
+
+*Silver
+SIVR ETFS Silver Trust
+SLV iShares Silver Trust
+
+*Palladium
+PALL ETFS Physical Palladium Shares
+
+*Platinum
+PPLT ETFS Physical Platinum Shares
+
+*Mining stocks
+GGGG Global X Pure Gold Miners ETF
+GLDX Global X Gold Explorers ETF
+SIL Global X Silver Miners ETF
