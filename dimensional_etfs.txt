@@ -1,0 +1,23 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+DFAC	Dimensional U.S. Core Equity 2 ETF	Equity	$33,004	0.73%	2,988,725	$34.76	0.00%
+DFUS	Dimensional U.S. Equity Market ETF	Equity	$14,485	1.41%	549,792	$64.51	0.03%
+DFIV	Dimensional International Value ETF	Equity	$11,306	18.25%	1,337,322	$41.81	0.87%
+DFUV	Dimensional US Marketwide Value ETF	Equity	$11,210	1.69%	410,194	$41.45	-0.14%
+DFAT	Dimensional U.S. Targeted Value ETF	Equity	$10,497	-3.95%	548,584	$53.30	-0.52%
+DFAS	Dimensional U.S. Small Cap ETF	Equity	$9,903	-3.42%	733,494	$62.72	-0.41%
+DFAI	Dimensional International Core Equity Market ETF	Equity	$9,770	15.51%	1,329,030	$33.63	0.84%
+DFIC	Dimensional International Core Equity 2 ETF	Equity	$8,934	16.45%	1,119,781	$30.01	0.81%
+DFAX	Dimensional World ex U.S. Core Equity 2 ETF	Equity	$8,133	13.88%	778,584	$28.24	0.64%
+DUHP	Dimensional US High Profitability ETF	Equity	$8,120	2.87%	1,117,837	$34.68	0.12%
+DFAU	Dimensional US Core Equity Market ETF	Equity	$7,920	1.06%	1,068,032	$40.83	-0.02%
+DFCF	Dimensional Core Fixed Income ETF	Bond	$6,624	2.01%	688,533	$41.64	0.00%
+DFAE	Dimensional Emerging Core Equity Market ETF	Equity	$5,615	9.05%	988,516	$27.61	0.29%
+DFEM	Dimensional Emerging Markets Core Equity 2 ETF	Equity	$5,117	8.14%	833,384	$28.26	0.32%
+DFSV	Dimensional US Small Cap Value ETF	Equity	$4,589	-5.63%	1,840,451	$28.97	-0.65%
+DFSD	Dimensional Short-Duration Fixed Income ETF	Bond	$4,481	2.50%	441,992	$47.68	0.06%
+DIHP	Dimensional International High Profitability ETF	Equity	$3,851	14.60%	514,181	$28.83	0.73%
+DFLV	Dimensional US Large Cap Value ETF	Equity	$3,379	1.91%	737,911	$30.48	0.03%
+DISV	Dimensional International Small Cap Value ETF	Equity	$2,903	18.71%	421,457	$31.51	0.86%
+DFIS	Dimensional International Small Cap ETF	Equity	$2,758	15.47%	487,895	$28.32	0.82%
+DFGR	Dimensional Global Real Estate ETF	Equity	$2,411	5.28%	323,568	$26.84	0.30%
+DCOR	Dimensional US Core Equity 1 ETF	Equity	$1,635	1.27%	175,649	$64.83	0.05%
