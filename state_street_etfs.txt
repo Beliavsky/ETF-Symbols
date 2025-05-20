@@ -1,0 +1,126 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+SPY	SPDR S&P 500 ETF Trust	Equity	$601,804	1.69%	77,763,040	$594.20	0.63%
+XLK	Technology Select Sector SPDR Fund	Equity	$72,605	1.20%	5,955,375	$234.89	0.19%
+SPLG	SPDR Portfolio S&P 500 ETF	Equity	$67,754	1.72%	11,897,932	$69.90	0.65%
+XLF	Financial Select Sector SPDR Fund	Equity	$51,214	7.13%	53,471,264	$51.59	0.60%
+BIL	SPDR Bloomberg 1-3 Month T-Bill ETF	Bond	$45,458	1.56%	13,939,826	$91.60	0.04%
+DIA	SPDR Dow Jones Industrial Average ETF Trust	Equity	$37,681	0.68%	3,337,111	$426.55	0.72%
+SPYG	SPDR Portfolio S&P 500 Growth ETF	Equity	$34,502	2.57%	3,081,392	$90.03	0.64%
+XLV	Health Care Select Sector SPDR Fund	Equity	$34,370	-2.88%	10,147,206	$133.09	2.02%
+XLE	Energy Select Sector SPDR Fund	Equity	$27,708	0.57%	18,292,044	$85.48	-0.15%
+SPDW	SPDR Portfolio Developed World ex-US ETF	Equity	$25,988	14.42%	4,411,923	$39.05	0.26%
+SPYV	SPDR Portfolio S&P 500 Value ETF	Equity	$25,710	0.90%	3,282,544	$51.42	0.78%
+MDY	SPDR S&P Midcap 400 ETF Trust	Equity	$22,622	-0.58%	1,222,620	$564.93	1.09%
+XLY	Consumer Discretionary Select Sector SPDR Fund	Equity	$21,651	-2.71%	4,726,422	$217.67	0.95%
+XLC	Communication Services Select Sector SPDR Fund	Equity	$21,503	5.44%	5,415,625	$101.78	0.68%
+XLI	Industrial Select Sector SPDR Fund	Equity	$20,798	9.46%	10,681,084	$143.78	1.14%
+SDY	SPDR S&P Dividend ETF	Equity	$20,013	4.14%	289,808	$136.73	0.99%
+XLU	Utilities Select Sector SPDR Fund	Equity	$18,650	9.34%	11,383,380	$82.18	1.47%
+XLP	Consumer Staples Select Sector SPDR Fund	Equity	$15,941	4.95%	15,554,619	$82.07	1.15%
+SPMD	SPDR Portfolio S&P 400 Mid Cap ETF	Equity	$12,695	-0.50%	2,035,314	$54.23	1.10%
+SPEM	SPDR Portfolio Emerging Markets ETF	Equity	$11,420	8.65%	2,494,789	$41.69	-0.05%
+SPSM	SPDR Portfolio S&P 600 Small Cap ETF	Equity	$11,080	-5.46%	2,444,786	$42.31	0.81%
+SPTL	SPDR Portfolio Long Term Treasury ETF	Bond	$11,032	0.63%	4,815,190	$26.01	0.23%
+SPTM	SPDR Portfolio S&P 1500 Composite Stock Market ETF	Equity	$10,032	1.46%	949,305	$72.24	0.70%
+SPIB	SPDR Portfolio Intermediate Term Corporate Bond ETF	Bond	$9,449	2.53%	7,102,001	$33.09	0.09%
+SPAB	SPDR Portfolio Aggregate Bond ETF	Bond	$8,769	2.13%	2,581,395	$25.19	0.04%
+SPTI	SPDR Portfolio Intermediate Term Treasury ETF	Bond	$8,766	3.02%	6,133,452	$28.36	0.07%
+SPHY	SPDR Portfolio High Yield Bond ETF	Bond	$8,123	2.42%	7,285,141	$23.44	-0.04%
+SPSB	SPDR Portfolio Short Term Corporate Bond ETF	Bond	$8,058	2.13%	4,301,405	$30.02	0.07%
+XLRE	Real Estate Select Sector SPDR Fund	Real Estate	$7,457	4.17%	6,623,006	$42.10	0.21%
+JNK	SPDR Bloomberg High Yield Bond ETF	Bond	$7,127	2.47%	5,278,037	$95.68	-0.06%
+SPYD	SPDR Portfolio S&P 500 High Dividend ETF	Equity	$6,914	0.93%	1,001,197	$43.23	-0.09%
+SRLN	SPDR Blackstone Senior Loan ETF	Bond	$6,803	1.55%	8,119,030	$41.30	0.02%
+SPMB	SPDR Portfolio Mortgage Backed Bond ETF	Bond	$5,922	2.03%	1,048,094	$21.72	-0.05%
+SPTS	SPDR Portfolio Short Term Treasury ETF	Bond	$5,740	1.77%	2,189,425	$29.13	0.03%
+XLB	Materials Select Sector SPDR Fund	Equity	$4,955	4.21%	6,191,038	$87.27	0.25%
+XBI	SPDR S&P Biotech ETF	Equity	$4,933	-11.48%	11,693,944	$79.72	0.89%
+FEZ	SPDR EURO STOXX 50 ETF	Equity	$4,559	23.83%	2,786,556	$59.47	1.14%
+SJNK	SPDR Bloomberg Short Term High Yield Bond ETF	Bond	$4,351	2.18%	5,113,195	$25.18	0.00%
+BILS	SPDR Bloomberg 3-12 Month T-Bill ETF	Bond	$3,927	1.54%	538,340	$99.29	0.00%
+CWB	SPDR Bloomberg Convertible Securities ETF	Bond	$3,820	4.48%	710,603	$80.88	0.01%
+SLYV	SPDR S&P 600 Small Cap Value ETF	Equity	$3,764	-9.14%	294,587	$78.92	-0.72%
+KRE	SPDR S&P Regional Banking ETF	Equity	$3,752	-1.59%	15,180,746	$59.00	-0.41%
+TOTL	SPDR DoubleLine Total Return Tactical ETF	Bond	$3,611	2.24%	434,492	$39.60	-0.05%
+SHM	SPDR Nuveen Bloomberg Short Term Municipal Bond ETF	Bond	$3,379	0.96%	488,195	$47.44	0.02%
+SLYG	SPDR S&P 600 Small Cap Growth ETF	Equity	$3,338	-3.03%	272,908	$87.39	-0.44%
+TFI	SPDR Nuveen Bloomberg Municipal Bond ETF	Bond	$3,140	-1.30%	1,682,114	$44.56	-0.07%
+XAR	SPDR S&P Aerospace & Defense ETF	Equity	$3,096	13.81%	126,357	$188.50	-0.41%
+GNR	SPDR S&P Global Natural Resources ETF	Equity	$2,767	7.17%	246,605	$53.33	-0.13%
+FLRN	SPDR Bloomberg Investment Grade Floating Rate ETF	Bond	$2,751	1.73%	1,124,316	$30.74	0.03%
+HYMB	SPDR Nuveen Bloomberg High Yield Municipal Bond ETF	Bond	$2,507	-1.97%	1,479,125	$24.71	-0.12%
+MDYV	SPDR S&P 400 Mid Cap Value ETF	Equity	$2,390	-1.24%	164,208	$78.96	-0.40%
+MDYG	SPDR S&P 400 Mid Cap Growth ETF	Equity	$2,256	-0.60%	224,771	$86.21	-0.35%
+KOMP	SPDR S&P Kensho New Economies Composite ETF	Equity	$2,199	1.14%	139,733	$51.29	-0.21%
+SPYX	SPDR S&P 500 Fossil Fuel Reserves Free ETF	Equity	$2,127	1.93%	126,503	$48.95	0.16%
+RWR	SPDR Dow Jones REIT ETF	Real Estate	$1,952	0.49%	241,038	$98.73	0.08%
+EBND	SPDR Bloomberg Emerging Markets Local Bond ETF	Bond	$1,884	8.28%	284,417	$20.76	0.53%
+CWI	SPDR MSCI ACWI ex-US ETF	Equity	$1,820	13.39%	241,922	$31.68	0.60%
+XOP	SPDR S&P Oil & Gas Exploration & Production ETF	Equity	$1,807	-5.66%	3,787,240	$124.16	-1.03%
+TIPX	SPDR Bloomberg 1-10 Year TIPS ETF	Bond	$1,646	3.69%	526,217	$18.97	0.00%
+SPBO	SPDR Portfolio Corporate Bond ETF	Bond	$1,524	1.74%	1,324,903	$28.64	0.03%
+XME	SPDR S&P Metals & Mining ETF	Equity	$1,511	4.95%	1,603,197	$59.49	0.08%
+QUS	SPDR MSCI USA StrategicFactors ETF	Equity	$1,509	3.80%	25,959	$160.73	0.26%
+KBE	SPDR S&P Bank ETF	Equity	$1,490	-0.15%	2,455,952	$55.00	-0.31%
+BWX	SPDR Bloomberg International Treasury Bond ETF	Bond	$1,421	6.82%	861,079	$22.70	0.67%
+XHB	SPDR S&P Homebuilders ETF	Equity	$1,291	-4.24%	2,211,014	$99.75	-1.13%
+XSD	SPDR S&P Semiconductor ETF	Equity	$1,213	-6.35%	47,792	$232.46	-1.33%
+EFIV	SPDR S&P 500 ESG ETF	Equity	$1,163	-0.14%	211,525	$56.23	0.11%
+SPLB	SPDR Portfolio Long Term Corporate Bond ETF	Bond	$1,144	0.12%	2,710,222	$21.87	0.00%
+RWO	SPDR Dow Jones Global Real Estate ETF	Real Estate	$1,113	4.41%	83,822	$44.48	0.18%
+LGLV	SPDR SSGA US Large Cap Low Volatility Index ETF	Equity	$1,077	6.95%	50,022	$175.89	0.26%
+XNTK	SPDR NYSE Technology ETF	Equity	$1,049	9.06%	35,183	$220.00	-0.16%
+SPGM	SPDR Portfolio MSCI Global Stock Market ETF	Equity	$1,046	5.27%	128,589	$66.67	0.29%
+SPIP	SPDR Portfolio TIPS ETF	Bond	$988	3.31%	219,138	$25.81	0.08%
+KIE	SPDR S&P Insurance ETF	Equity	$968	6.42%	1,133,873	$59.85	0.22%
+QEFA	SPDR MSCI EAFE StrategicFactors ETF	Equity	$855	16.33%	63,322	$84.35	0.66%
+SPEU	SPDR Portfolio Europe ETF	Equity	$847	20.34%	463,862	$47.76	1.21%
+ONEY	SPDR Russell 1000 Yield Focus ETF	Equity	$838	1.04%	36,530	$109.21	-0.07%
+PSK	SPDR ICE Preferred Securities ETF	Preferred Stock	$823	-1.53%	196,062	$31.78	0.41%
+EDIV	SPDR S&P Emerging Markets Dividend ETF	Equity	$714	8.97%	126,611	$38.14	0.71%
+XLSR	SPDR SSGA US Sector Rotation ETF	Equity	$708	-0.78%	77,438	$52.94	0.15%
+EWX	SPDR S&P Emerging Markets Small Cap ETF	Equity	$676	2.20%	37,708	$59.90	0.49%
+GWX	SPDR S&P International Small Cap ETF	Equity	$671	12.41%	56,786	$34.83	0.55%
+ULST	SPDR SSgA Ultra Short Term Bond ETF	Bond	$632	1.84%	203,616	$40.55	0.10%
+NANR	SPDR S&P North American Natural Resources ETF	Equity	$622	6.39%	32,633	$54.38	0.02%
+ONEV	SPDR Russell 1000 Low Volatility Focus ETF	Equity	$592	3.71%	7,354	$129.60	0.13%
+GII	SPDR S&P Global Infrastructure ETF	Equity	$542	12.95%	36,033	$66.83	0.71%
+XSW	SPDR S&P Software & Services ETF	Equity	$499	-3.79%	46,002	$181.75	-1.06%
+KCE	SPDR S&P Capital Markets ETF	Equity	$490	1.56%	37,221	$139.22	0.09%
+RLY	SPDR SSgA Multi-Asset Real Return ETF	Alternatives	$486	6.03%	86,552	$28.65	0.42%
+DWX	SPDR S&P International Dividend ETF	Equity	$452	18.33%	67,284	$41.14	0.64%
+VLU	SPDR S&P 1500 Value Tilt ETF	Equity	$448	2.80%	10,741	$188.27	-0.08%
+CERY	SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF	N/A	$441	2.99%	273,648	$26.66	0.23%
+GXC	SPDR S&P China ETF	Equity	$426	13.27%	76,063	$85.95	0.54%
+FISR	SPDR SSGA Fixed Income Sector Rotation ETF	Bond	$407	1.35%	115,940	$25.39	-0.12%
+XRT	SPDR S&P Retail ETF	Equity	$386	-3.92%	7,628,886	$76.27	-0.26%
+HYBL	SPDR Blackstone High Income ETF	Bond	$372	1.97%	196,551	$28.24	-0.07%
+RWX	SPDR Dow Jones International Real Estate ETF	Real Estate	$362	14.92%	122,224	$26.27	0.46%
+EFAX	SPDR MSCI EAFE Fossil Fuel Free ETF	Equity	$362	17.06%	18,568	$46.60	0.93%
+GMF	SPDR S&P Emerging Asia Pacific ETF	Equity	$355	5.67%	13,887	$122.11	0.16%
+DGT	SPDR Global Dow ETF	Equity	$353	11.33%	16,975	$146.53	0.51%
+WIP	SPDR FTSE International Government Inflation-Protected Bond ETF	Bond	$347	7.55%	65,314	$38.25	0.58%
+BWZ	SPDR Bloomberg Short Term International Treasury Bond ETF	Bond	$306	8.52%	157,913	$27.30	0.63%
+IBND	SPDR Bloomberg International Corporate Bond ETF	Bond	$292	9.67%	129,683	$30.86	0.85%
+SHE	SPDR MSCI USA Gender Diversity ETF	Equity	$254	5.06%	4,056	$121.37	0.21%
+GAL	SPDR SSgA Global Allocation ETF	Multi-Asset	$250	4.53%	13,306	$46.01	0.15%
+STOT	SPDR DoubleLine Short Duration Total Return Tactical ETF	Bond	$233	1.86%	42,933	$47.02	0.15%
+WDIV	SPDR S&P Global Dividend ETF	Equity	$204	10.61%	11,127	$68.27	0.32%
+XTN	SPDR S&P Transportation ETF	Equity	$203	-8.90%	35,735	$78.78	-0.44%
+ALLW	SPDR Bridgewater All Weather ETF	Multi-Asset	$198	N/A	N/A	$25.25	0.32%
+SMLV	SPDR SSGA US Small Cap Low Volatility Index ETF	Equity	$197	-0.89%	6,144	$125.63	-0.02%
+EMHC	SPDR Bloomberg Emerging Markets USD Bond ETF	Bond	$178	3.41%	160,113	$24.09	0.00%
+XHE	SPDR S&P Health Care Equipment ETF	Equity	$174	-5.77%	16,986	$83.40	-0.39%
+QWLD	SPDR MSCI World StrategicFactors ETF	Equity	$162	7.28%	6,649	$132.87	0.52%
+NZAC	SPDR MSCI ACWI Climate Paris Aligned ETF	Equity	$159	4.99%	8,827	$38.10	0.45%
+XES	SPDR S&P Oil & Gas Equipment & Services ETF	Equity	$148	-21.50%	63,633	$61.67	-1.67%
+MMTM	SPDR S&P 1500 Momentum Tilt ETF	Equity	$147	-1.09%	3,673	$256.81	-0.08%
+XPH	SPDR S&P Pharmaceuticals ETF	Equity	$140	-4.68%	60,505	$40.84	0.64%
+CNRG	SPDR S&P Kensho Clean Power ETF	Equity	$128	-1.93%	23,330	$59.26	-2.05%
+XTL	SPDR S&P Telecom ETF	Equity	$106	-1.21%	15,517	$105.47	-0.42%
+XITK	SPDR FactSet Innovative Technology ETF	Equity	$95	4.11%	3,568	$181.16	-0.41%
+XHS	SPDR S&P Health Care Services ETF	Equity	$95	11.23%	6,732	$100.27	-0.49%
+EMTL	SPDR DoubleLine Emerging Markets Fixed Income ETF	Bond	$92	2.87%	20,057	$42.56	0.00%
+ONEO	SPDR Russell 1000 Momentum Focus ETF	Equity	$92	3.23%	587	$121.99	-0.01%
+SPTB	SPDR Portfolio Treasury ETF	N/A	$90	2.03%	9,844	$30.09	-0.03%
+EEMX	SPDR MSCI Emerging Markets Fossil Fuel Free ETF	Equity	$82	10.93%	8,433	$35.83	0.20%

@@ -1,0 +1,409 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+IVV	iShares Core S&P 500 ETF	Equity	$595,047	1.86%	7,795,506	$597.79	0.13%
+IEFA	iShares Core MSCI EAFE ETF	Equity	$136,971	16.42%	13,034,315	$81.82	0.91%
+AGG	iShares Core U.S. Aggregate Bond ETF	Bond	$122,783	2.06%	9,067,998	$97.63	-0.03%
+IWF	iShares Russell 1000 Growth ETF	Equity	$106,500	0.13%	1,977,757	$401.68	0.08%
+IJH	iShares Core S&P Mid-Cap ETF	Equity	$94,218	-0.90%	11,707,106	$61.58	-0.39%
+IEMG	iShares Core MSCI Emerging Markets ETF	Equity	$88,548	10.07%	11,358,681	$57.48	0.30%
+IJR	iShares Core S&P Small-Cap ETF	Equity	$79,176	-6.16%	5,635,821	$107.79	-0.65%
+ITOT	iShares Core S&P Total U.S. Stock Market ETF	Equity	$67,945	1.43%	2,639,557	$130.08	0.09%
+IBIT	iShares Bitcoin Trust ETF	Currency	$65,722	13.08%	45,268,224	$59.99	1.33%
+IWM	iShares Russell 2000 ETF	Equity	$63,856	-5.22%	35,931,184	$208.97	-0.42%
+EFA	iShares MSCI EAFE ETF	Equity	$62,106	16.48%	16,747,379	$88.07	0.95%
+IWD	iShares Russell 1000 Value ETF	Equity	$62,058	3.77%	2,545,038	$191.30	0.11%
+IVW	iShares S&P 500 Growth ETF	Equity	$57,055	2.54%	2,454,349	$103.99	0.07%
+QUAL	iShares MSCI USA Quality Factor ETF	Equity	$51,452	1.12%	1,814,302	$179.67	0.30%
+TLT	iShares 20+ Year Treasury Bond ETF	Bond	$48,866	-0.08%	41,133,308	$86.05	-0.29%
+SGOV	iShares 0-3 Month Treasury Bond ETF	Bond	$45,988	1.60%	12,714,351	$100.56	0.01%
+IAU	iShares Gold Trust	Commodity	$44,767	23.15%	8,943,368	$60.97	1.28%
+IXUS	iShares Core MSCI Total International Stock ETF	Equity	$43,972	13.67%	3,190,489	$75.18	0.62%
+IWR	iShares Russell Midcap ETF	Equity	$41,339	2.79%	2,205,271	$90.59	-0.17%
+IWB	iShares Russell 1000 ETF	Equity	$40,741	1.83%	1,091,662	$327.17	0.14%
+MUB	iShares National Muni Bond ETF	Bond	$38,848	-0.95%	6,655,621	$104.44	-0.07%
+MBB	iShares MBS ETF	Bond	$38,143	2.12%	3,635,608	$92.31	-0.06%
+IVE	iShares S&P 500 Value ETF	Equity	$37,599	0.93%	1,090,837	$191.90	0.17%
+IEF	iShares 7-10 Year Treasury Bond ETF	Bond	$34,399	2.87%	10,826,457	$93.92	-0.05%
+IUSB	iShares Core Total USD Bond Market ETF	Bond	$32,845	2.08%	2,644,695	$45.51	-0.02%
+DGRO	iShares Core Dividend Growth ETF	Equity	$31,165	2.86%	2,095,151	$62.78	0.24%
+LQD	iShares iBoxx $ Investment Grade Corporate Bond ETF	Bond	$29,922	1.79%	30,498,488	$107.11	0.01%
+GOVT	iShares U.S. Treasury Bond ETF	Bond	$27,232	-0.29%	14,754,589	$22.66	-0.04%
+USMV	iShares MSCI USA Min Vol Factor ETF	Equity	$24,414	6.68%	3,207,048	$94.39	0.45%
+SHY	iShares 1-3 Year Treasury Bond ETF	Bond	$23,879	1.85%	4,743,719	$82.43	0.04%
+USHY	iShares Broad USD High Yield Corporate Bond ETF	Bond	$22,575	2.73%	17,275,364	$36.95	-0.03%
+IUSG	iShares Core S&P U.S. Growth ETF	Equity	$22,109	2.36%	717,613	$142.45	0.00%
+EFV	iShares MSCI EAFE Value ETF	Equity	$21,642	20.05%	3,292,352	$62.99	0.93%
+ACWI	iShares MSCI ACWI ETF	Equity	$21,467	5.90%	3,378,041	$124.43	0.31%
+SHV	iShares Short Treasury Bond ETF	Bond	$20,884	1.54%	6,685,662	$110.28	0.00%
+IGSB	iShares 1-5 Year Investment Grade Corporate Bond ETF	Bond	$20,771	2.60%	4,135,157	$52.28	0.08%
+IUSV	iShares Core S&P U.S. Value ETF	Equity	$20,321	0.89%	1,049,490	$93.05	0.17%
+IYW	iShares U.S. Technology ETF	Equity	$20,159	0.26%	906,321	$159.86	-0.12%
+DVY	iShares Select Dividend ETF	Equity	$19,743	2.82%	467,610	$133.94	0.12%
+IDEV	iShares Core MSCI International Developed Markets ETF	Equity	$19,588	15.45%	1,955,400	$74.43	0.83%
+IWP	iShares Russell Mid-Cap Growth ETF	Equity	$18,822	6.47%	1,219,597	$134.84	-0.23%
+OEF	iShares S&P 100 ETF	Equity	$17,911	0.58%	540,891	$289.91	0.18%
+EEM	iShares MSCI Emerging Markets ETF	Equity	$17,457	10.86%	28,333,540	$46.36	0.22%
+DYNF	iShares U.S. Equity Factor Rotation Active ETF	Equity	$17,334	2.46%	2,057,616	$52.33	0.11%
+MTUM	iShares MSCI USA Momentum Factor ETF	Equity	$16,953	12.02%	1,256,941	$231.20	0.23%
+IEI	iShares 3-7 Year Treasury Bond ETF	Bond	$15,956	2.83%	2,266,205	$117.51	0.06%
+HYG	iShares iBoxx $ High Yield Corporate Bond ETF	Bond	$15,780	2.88%	53,995,392	$79.38	-0.05%
+EMXC	iShares MSCI Emerging Markets ex China ETF	Equity	$15,509	8.40%	2,484,713	$60.11	0.12%
+IWV	iShares Russell 3000 ETF	Equity	$15,254	1.47%	263,024	$338.29	0.01%
+EWJ	iShares MSCI Japan ETF	Equity	$14,646	8.15%	5,580,949	$72.57	0.11%
+IGIB	iShares 5-10 Year Investment Grade Corporate Bond ETF	Bond	$14,613	2.87%	1,941,176	$52.19	0.08%
+SLV	iShares Silver Trust	Commodity	$14,451	11.74%	20,679,528	$29.42	0.41%
+PFF	iShares Preferred & Income Securities ETF	Preferred Stock	$13,788	-0.58%	4,042,419	$30.57	0.07%
+TIP	iShares TIPS Bond ETF	Bond	$13,659	3.35%	2,232,378	$108.89	0.01%
+USIG	iShares Broad USD Investment Grade Corporate Bond ETF	Bond	$13,600	1.92%	1,879,752	$50.47	0.02%
+ESGU	iShares ESG Aware MSCI USA ETF	Equity	$13,494	1.39%	704,121	$130.27	0.11%
+IWS	iShares Russell Mid-Cap Value ETF	Equity	$13,388	1.49%	661,465	$130.81	-0.08%
+IWY	iShares Russell Top 200 Growth ETF	Equity	$13,155	-0.84%	542,070	$233.04	0.01%
+EMB	iShares J.P. Morgan USD Emerging Markets Bond ETF	Bond	$13,036	3.49%	6,725,313	$90.51	0.07%
+EFG	iShares MSCI EAFE Growth ETF	Equity	$12,889	12.48%	1,642,095	$108.91	0.85%
+SOXX	iShares Semiconductor ETF	Equity	$12,051	-1.56%	5,182,226	$211.85	-0.60%
+STIP	iShares 0-5 Year TIPS Bond ETF	Bond	$11,894	3.26%	776,408	$102.46	0.07%
+IGV	iShares Expanded Tech-Software Sector ETF	Equity	$11,884	4.81%	6,336,424	$104.94	-0.21%
+IQLT	iShares MSCI Intl Quality Factor ETF	Equity	$11,476	15.03%	2,283,044	$42.70	0.80%
+IWO	iShares Russell 2000 Growth ETF	Equity	$11,455	-4.68%	536,648	$273.97	-0.43%
+HDV	iShares Core High Dividend ETF	Equity	$11,078	4.79%	574,800	$116.86	0.26%
+IWN	iShares Russell 2000 Value ETF	Equity	$11,056	-5.73%	1,151,884	$154.27	-0.45%
+SCZ	iShares MSCI EAFE Small-Cap ETF	Equity	$9,978	14.47%	1,544,246	$69.54	0.74%
+TLH	iShares 10-20 Year Treasury Bond ETF	Bond	$9,909	0.91%	1,831,533	$99.16	-0.29%
+ESGD	iShares ESG Aware MSCI EAFE ETF	Equity	$9,462	15.34%	532,705	$87.82	0.95%
+SUB	iShares Short-Term National Muni Bond ETF	Bond	$9,455	0.96%	656,286	$105.68	0.03%
+INDA	iShares MSCI India ETF	Equity	$9,253	4.07%	8,103,482	$54.78	0.22%
+BINC	iShares Flexible Income Active ETF	N/A	$9,057	2.13%	1,386,881	$52.19	0.04%
+IJK	iShares S&P Mid-Cap 400 Growth ETF	Equity	$8,830	-0.58%	449,116	$90.28	-0.41%
+FLOT	iShares Floating Rate Bond ETF	Bond	$8,804	1.64%	2,035,983	$50.90	0.00%
+HEFA	iShares Currency Hedged MSCI EAFE ETF	Equity	$7,887	8.95%	2,033,414	$37.86	0.56%
+EZU	iShares MSCI Eurozone ETF	Equity	$7,784	24.51%	3,007,333	$58.77	1.21%
+IJJ	iShares S&P Mid-Cap 400 Value ETF	Equity	$7,741	-1.47%	324,781	$122.67	-0.47%
+IAGG	iShares Core International Aggregate Bond ETF	Bond	$7,325	1.54%	838,386	$50.69	0.16%
+ITA	iShares U.S. Aerospace & Defense ETF	Equity	$7,180	19.42%	450,427	$173.30	0.79%
+TFLO	iShares Treasury Floating Rate Bond ETF	Bond	$7,002	1.63%	2,220,355	$50.59	0.04%
+IGF	iShares Global Infrastructure ETF	Equity	$6,789	12.42%	722,894	$58.76	0.56%
+IEUR	iShares Core MSCI Europe ETF	Equity	$6,572	20.95%	1,257,483	$65.29	1.10%
+VLUE	iShares MSCI USA Value Factor ETF	Equity	$6,507	4.31%	651,327	$109.47	-0.07%
+IOO	iShares Global 100 ETF	Equity	$6,294	2.32%	233,095	$103.11	0.30%
+IJS	iShares S&P Small-Cap 600 Value ETF	Equity	$6,243	-9.13%	437,649	$98.34	-0.75%
+ACWX	iShares MSCI ACWI ex U.S. ETF	Equity	$6,230	13.96%	1,758,070	$59.44	0.73%
+SHYG	iShares 0-5 Year High Yield Corporate Bond ETF	Bond	$6,191	2.42%	2,235,533	$42.60	-0.02%
+ICSH	iShares Ultra Short Duration Bond Active ETF	Bond	$6,104	1.80%	1,468,232	$50.57	0.02%
+MCHI	iShares MSCI China ETF	Equity	$6,088	16.73%	3,560,164	$54.70	0.51%
+IJT	iShares S&P Small-Cap 600 Growth ETF	Equity	$6,064	-3.04%	213,913	$131.00	-0.46%
+FXI	iShares China Large-Cap ETF	Equity	$6,054	17.81%	54,836,444	$35.86	0.62%
+IGM	iShares Expanded Tech Sector ETF	Equity	$6,023	1.39%	570,633	$103.46	-0.08%
+EWT	iShares MSCI Taiwan ETF	Equity	$5,460	3.98%	3,514,198	$53.82	-0.35%
+EFAV	iShares MSCI EAFE Min Vol Factor ETF	Equity	$5,368	17.72%	750,775	$83.24	0.91%
+IBB	iShares Biotechnology ETF	Equity	$5,246	-7.26%	1,664,159	$122.51	1.11%
+IXN	iShares Global Tech ETF	Equity	$4,913	0.68%	364,825	$85.33	-0.01%
+IDV	iShares International Select Dividend ETF	Equity	$4,872	23.07%	854,067	$33.50	1.03%
+URTH	iShares MSCI World ETF	Equity	$4,788	5.42%	410,784	$163.93	0.26%
+ESGE	iShares ESG Aware MSCI EM ETF	Equity	$4,767	11.77%	700,970	$37.32	0.27%
+IHI	iShares U.S. Medical Devices ETF	Equity	$4,732	8.04%	748,478	$63.01	0.22%
+DSI	iShares ESG MSCI KLD 400 ETF	Equity	$4,575	1.53%	155,427	$111.65	0.06%
+ISTB	iShares Core 1-5 Year USD Bond ETF	Bond	$4,451	2.28%	589,148	$48.21	0.02%
+EEMV	iShares MSCI Emerging Markets Min Vol Factor ETF	Equity	$4,364	6.45%	324,217	$61.73	0.33%
+EWZ	iShares MSCI Brazil ETF	Equity	$4,332	25.19%	24,822,360	$28.18	0.64%
+REET	iShares Global REIT ETF	Real Estate	$3,904	4.03%	787,710	$24.81	0.20%
+IXJ	iShares Global Healthcare ETF	Equity	$3,815	-0.06%	209,752	$85.92	1.17%
+EAGG	iShares ESG Aware US Aggregate Bond ETF	Bond	$3,778	2.13%	434,011	$46.82	0.04%
+EUFN	iShares MSCI Europe Financials ETF	Equity	$3,714	36.27%	2,241,624	$31.75	1.57%
+IYF	iShares U.S. Financials ETF	Equity	$3,604	6.94%	475,760	$117.87	-0.12%
+CMF	iShares California Muni Bond ETF	Bond	$3,585	-1.67%	667,090	$55.77	-0.09%
+IYR	iShares U.S. Real Estate ETF	Real Estate	$3,525	3.11%	5,483,635	$95.60	0.12%
+SUSA	iShares MSCI USA ESG Select ETF	Equity	$3,507	1.89%	120,946	$123.59	0.08%
+ACWV	iShares MSCI Global Min Vol Factor ETF	Equity	$3,436	9.06%	300,263	$119.09	0.64%
+GVI	iShares Intermediate Government/Credit Bond ETF	Bond	$3,348	2.40%	146,248	$105.52	0.00%
+ETHA	iShares Ethereum Trust ETF	Currency	$3,322	-24.56%	11,793,444	$19.08	-2.90%
+NEAR	iShares Short Duration Bond Active ETF	Bond	$3,275	2.06%	488,395	$50.78	0.04%
+IBDR	iShares iBonds Dec 2026 Term Corporate ETF	Bond	$3,269	1.87%	627,929	$24.18	0.04%
+XT	iShares Exponential Technologies ETF	Equity	$3,255	3.52%	175,330	$61.76	-0.10%
+IBDQ	iShares iBonds Dec 2025 Term Corporate ETF	Bond	$3,068	1.67%	442,271	$25.13	-0.04%
+EWY	iShares MSCI South Korea ETF	Equity	$3,045	15.58%	3,430,797	$58.82	0.05%
+IBDS	iShares iBonds Dec 2027 Term Corporate ETF	Bond	$3,023	2.23%	601,762	$24.14	0.08%
+EWU	iShares MSCI United Kingdom ETF	Equity	$3,014	16.02%	2,009,891	$39.33	1.11%
+USRT	iShares Core U.S. REIT ETF	Real Estate	$2,954	1.13%	330,249	$57.71	0.19%
+EWC	iShares MSCI Canada ETF	Equity	$2,937	9.31%	3,075,554	$44.05	0.36%
+IMTM	iShares MSCI Intl Momentum Factor ETF	Equity	$2,826	17.51%	431,043	$43.95	0.94%
+IBDT	iShares iBonds Dec 2028 Term Corporate ETF	Bond	$2,820	2.83%	411,176	$25.22	0.12%
+IYH	iShares U.S. Healthcare ETF	Equity	$2,774	-3.25%	389,779	$56.23	0.92%
+IMCG	iShares Morningstar Mid-Cap Growth ETF	Equity	$2,689	4.30%	209,565	$78.65	0.06%
+IWX	iShares Russell Top 200 Value ETF	Equity	$2,686	4.97%	523,879	$82.67	0.25%
+IAUM	iShares Gold Trust Micro ETF of Benef Interest	Commodity	$2,625	23.23%	2,212,600	$32.25	1.26%
+IBDU	iShares iBonds Dec 2029 Term Corporate ETF	Bond	$2,565	2.84%	477,768	$23.08	0.04%
+AAXJ	iShares MSCI All Country Asia ex-Japan ETF	Equity	$2,557	9.19%	528,797	$78.81	0.22%
+ILCG	iShares Morningstar Growth ETF	Equity	$2,538	2.32%	111,954	$91.57	0.12%
+EWG	iShares MSCI Germany ETF	Equity	$2,525	30.61%	3,642,278	$41.56	1.74%
+IGLB	iShares 10+ Year Investment Grade Corporate Bond ETF	Bond	$2,498	0.22%	850,902	$48.66	-0.04%
+ITB	iShares U.S. Home Construction ETF	Equity	$2,493	-7.95%	2,194,521	$94.52	-0.94%
+ICVT	iShares Convertible Bond ETF	Bond	$2,472	4.28%	335,156	$88.00	0.06%
+LRGF	iShares US Equity Factor ETF	Equity	$2,457	2.91%	171,332	$61.93	0.11%
+IFRA	iShares U.S. Infrastructure ETF	Equity	$2,450	5.31%	685,730	$48.47	0.23%
+AOR	iShares Core 60/40 Balanced Allocation ETF	Multi-Asset	$2,383	4.42%	266,246	$59.60	0.18%
+IYY	iShares Dow Jones U.S. ETF	Equity	$2,371	1.63%	44,148	$145.06	0.03%
+AOA	iShares Core 80/20 Aggressive Allocation ETF	Multi-Asset	$2,326	5.31%	112,570	$80.45	0.31%
+USCL	iShares Climate Conscious & Transition MSCI USA ETF	Equity	$2,316	1.04%	12,129	$70.90	0.00%
+SLQD	iShares 0-5 Year Investment Grade Corporate Bond ETF	Bond	$2,215	2.37%	273,984	$50.24	0.08%
+IPAC	iShares Core MSCI Pacific ETF	Equity	$2,135	8.72%	123,629	$66.43	0.27%
+IEV	iShares Europe ETF	Equity	$2,131	20.69%	496,876	$62.83	1.32%
+IVLU	iShares MSCI Intl Value Factor ETF	Equity	$2,127	19.77%	541,211	$32.47	1.06%
+PABU	iShares Paris-Aligned Climate MSCI USA ETF	Equity	$2,119	-0.45%	156,086	$64.63	-0.03%
+IBTF	iShares iBonds Dec 2025 Term Treasury ETF	Bond	$2,110	1.44%	590,376	$23.33	-0.04%
+INTF	iShares International Equity Factor ETF	Equity	$2,035	16.71%	455,890	$33.52	1.06%
+ICF	iShares Select U.S. REIT ETF	Real Estate	$1,959	3.75%	106,852	$62.27	0.27%
+IBTG	iShares iBonds Dec 2026 Term Treasury ETF	Bond	$1,893	1.60%	461,875	$22.87	0.09%
+EWW	iShares MSCI Mexico ETF	Equity	$1,873	29.37%	2,927,968	$60.57	1.78%
+EPP	iShares MSCI Pacific ex Japan ETF	Equity	$1,837	9.77%	540,536	$48.09	0.46%
+ESML	iShares ESG Aware MSCI USA Small-Cap ETF	Equity	$1,820	-3.58%	194,003	$40.44	-0.44%
+IBDV	iShares iBonds Dec 2030 Term Corporate ETF	Bond	$1,800	3.03%	470,340	$21.67	0.09%
+HIMU	iShares High Yield Muni Active ETF	N/A	$1,789	N/A	N/A	N/A	0.00%
+IYG	iShares U.S. Financial Services ETF	Equity	$1,750	7.27%	128,200	$83.24	-0.11%
+SMLF	iShares U.S. Small‑Cap Equity Factor ETF	Equity	$1,736	-1.15%	310,381	$66.55	-0.27%
+FALN	iShares Fallen Angels USD Bond ETF	Bond	$1,727	1.44%	1,474,500	$26.52	-0.08%
+ILF	iShares Latin America 40 ETF	Equity	$1,715	24.49%	1,649,638	$26.03	0.50%
+IXC	iShares Global Energy ETF	Equity	$1,704	1.31%	553,229	$38.68	-0.90%
+QLTA	iShares Aaa – A Rated Corporate Bond ETF	Bond	$1,656	1.90%	281,492	$46.99	0.04%
+IWL	iShares Russell Top 200 ETF	Equity	$1,633	1.53%	112,179	$146.56	0.14%
+HYDB	iShares High Yield Systematic Bond ETF	Bond	$1,623	1.90%	431,576	$46.80	-0.11%
+IYJ	iShares U.S. Industrials ETF	Equity	$1,604	5.47%	87,098	$140.54	0.31%
+IYK	iShares U.S. Consumer Staples ETF	Equity	$1,539	8.67%	311,962	$70.99	0.35%
+IBTH	iShares iBonds Dec 2027 Term Treasury ETF	Bond	$1,527	2.07%	441,040	$22.36	0.09%
+EWA	iShares MSCI-Australia ETF	Equity	$1,526	7.42%	2,219,048	$25.63	0.63%
+AOM	iShares Core 40/60 Moderate Allocation ETF	Multi-Asset	$1,493	3.57%	147,787	$44.74	0.18%
+IDU	iShares U.S. Utilities ETF	Equity	$1,485	10.51%	126,938	$105.74	0.48%
+IBDW	iShares iBonds Dec 2031 Term Corporate ETF	Bond	$1,481	3.20%	255,038	$20.66	0.15%
+SMMD	iShares Russell 2500 ETF	Equity	$1,470	-2.28%	212,902	$66.25	-0.35%
+IYC	iShares U.S. Consumer Discretionary ETF	Equity	$1,469	2.33%	182,489	$98.22	-0.03%
+EUSA	iShares MSCI USA Equal Weighted ETF	Equity	$1,462	2.92%	128,730	$97.81	0.04%
+ICLN	iShares Global Clean Energy ETF	Equity	$1,435	12.74%	2,145,573	$12.83	-1.00%
+RING	iShares MSCI Global Gold Miners ETF	Equity	$1,358	40.95%	448,790	$39.62	2.11%
+USXF	iShares ESG Advanced MSCI USA ETF	Equity	$1,303	3.80%	120,587	$51.50	0.21%
+IAI	iShares U.S. Broker-Dealers & Securities Exchanges ETF	Equity	$1,291	9.03%	275,708	$156.60	0.01%
+EWL	iShares MSCI Switzerland ETF	Equity	$1,239	19.71%	506,441	$55.02	1.12%
+LCTU	BlackRock U.S. Carbon Transition Readiness ETF	Equity	$1,232	1.17%	46,387	$64.63	0.09%
+EWP	iShares MSCI Spain ETF	Equity	$1,225	37.52%	594,884	$42.70	1.16%
+IYE	iShares U.S. Energy ETF	Equity	$1,181	-0.95%	470,892	$44.83	-1.28%
+IGRO	iShares International Dividend Growth ETF	Equity	$1,125	14.14%	74,162	$77.29	0.80%
+SUSC	iShares ESG Aware USD Corporate Bond ETF	Bond	$1,109	1.79%	220,416	$22.79	0.09%
+IMCB	iShares Morningstar Mid-Cap ETF	Equity	$1,075	3.42%	34,668	$78.48	-0.05%
+IGEB	iShares Investment Grade Systematic Bond ETF	Bond	$1,071	2.06%	158,527	$44.53	0.00%
+IBDX	iShares iBonds Dec 2032 Term Corporate ETF	Bond	$1,056	2.62%	173,081	$24.81	-0.04%
+TLTW	iShares 20+ Year Treasury Bond BuyWrite Strategy ETF	Bond	$1,049	2.03%	871,098	$22.74	-0.13%
+EXI	iShares Global Industrials ETF	Equity	$1,047	13.88%	59,765	$160.84	0.47%
+MEAR	iShares Short Maturity Municipal Bond Active ETF	Bond	$1,038	1.21%	209,616	$50.05	-0.02%
+ILCV	iShares Morningstar Value ETF	Equity	$1,015	1.65%	61,549	$81.93	0.15%
+ILCB	iShares Morningstar U.S. Equity ETF	Equity	$1,002	1.90%	31,562	$82.45	0.05%
+CRBN	iShares MSCI ACWI Low Carbon Target ETF	Equity	$1,001	5.59%	10,032	$204.42	0.26%
+IBTI	iShares iBonds Dec 2028 Term Treasury ETF	Bond	$1,000	2.49%	206,732	$22.16	0.05%
+IGOV	iShares International Treasury Bond ETF	Bond	$976	7.44%	430,949	$41.28	0.90%
+SUSB	iShares ESG Aware 1-5 Year USD Corporate Bond ETF	Bond	$974	2.47%	219,410	$24.95	0.04%
+IHAK	iShares Cybersecurity & Tech ETF	Equity	$926	6.09%	120,143	$51.76	-0.10%
+ARTY	iShares Future AI & Tech ETF	Equity	$916	-0.67%	325,641	$36.82	-0.70%
+SUSL	iShares ESG MSCI USA Leaders ETF	Equity	$908	1.71%	39,959	$104.52	0.30%
+GSG	iShares S&P GSCI Commodity-Indexed Trust	Commodity	$898	-1.42%	688,906	$21.46	0.09%
+NYF	iShares New York Muni Bond ETF	Bond	$881	-0.87%	114,068	$52.25	0.06%
+SMIN	iShares MSCI India Small-Cap ETF	Equity	$872	-2.79%	292,546	$74.32	1.25%
+EMGF	iShares Emerging Markets Equity Factor ETF	Equity	$866	10.07%	112,238	$49.78	0.46%
+KXI	iShares Global Consumer Staples ETF	Equity	$840	10.12%	107,297	$66.39	0.74%
+IAK	iShares U.S. Insurance ETF	Equity	$823	9.44%	85,329	$137.63	0.31%
+REZ	iShares Residential and Multisector Real Estate ETF	Real Estate	$817	4.67%	77,438	$84.44	0.25%
+DIVB	iShares Core Dividend ETF	Equity	$817	4.60%	156,668	$49.27	0.10%
+CLOA	iShares AAA CLO Active ETF	Bond	$812	1.92%	320,176	$51.81	0.04%
+IBHF	iShares iBonds 2026 Term High Yield and Income ETF	Bond	$807	2.46%	328,471	$23.20	0.09%
+DVYE	iShares Emerging Markets Dividend ETF	Equity	$804	10.87%	196,194	$28.46	0.32%
+DMXF	iShares ESG Advanced MSCI EAFE ETF	Equity	$797	13.32%	59,986	$73.23	0.87%
+IWC	iShares Micro-Cap ETF	Equity	$782	-7.64%	55,514	$120.14	-0.32%
+IYT	iShares US Transportation ETF	Equity	$763	1.30%	453,564	$68.23	-0.26%
+BIDD	iShares International Dividend Active ETF	Equity	$739	10.37%	128,908	$27.22	1.08%
+PICK	iShares MSCI Global Metals & Mining Producers ETF	Equity	$735	5.34%	265,327	$36.86	0.00%
+IBDY	iShares iBonds Dec 2033 Term Corporate ETF	N/A	$721	2.66%	112,068	$25.34	0.04%
+HEZU	iShares Currency Hedged MSCI Eurozone ETF	Equity	$720	15.67%	225,389	$41.46	0.73%
+INDY	iShares India 50 ETF	Equity	$711	5.90%	228,492	$53.84	0.07%
+EWS	iShares MSCI Singapore ETF	Equity	$707	17.53%	832,921	$25.68	0.04%
+KSA	iShares MSCI Saudi Arabia ETF	Equity	$707	-2.28%	564,503	$39.91	-0.70%
+AIA	iShares Asia 50 ETF	Equity	$691	12.84%	80,178	$76.54	0.20%
+IMCV	iShares Morningstar Mid-Cap Value ETF	Equity	$691	2.26%	32,957	$75.50	-0.13%
+EUSB	iShares ESG Advanced Total USD Bond Market ETF	Bond	$685	2.20%	53,065	$42.87	0.02%
+IBTJ	iShares iBonds Dec 2029 Term Treasury ETF	Bond	$662	2.94%	185,068	$21.68	0.09%
+ISCG	iShares Morningstar Small-Cap Growth ETF	Equity	$651	-2.43%	106,013	$48.19	-0.35%
+IHF	iShares U.S. Healthcare Providers ETF	Equity	$641	1.50%	169,059	$48.61	1.19%
+THRO	iShares U.S. Thematic Rotation Active ETF	Equity	$630	2.18%	383,930	$34.30	0.09%
+AOK	iShares Core 30/70 Conservative Allocation ETF	Multi-Asset	$629	3.25%	146,652	$38.18	0.29%
+EWH	iShares MSCI Hong Kong ETF	Equity	$620	13.51%	4,093,857	$18.91	0.37%
+ECH	iShares MSCI Chile ETF	Equity	$614	31.63%	394,678	$32.96	1.07%
+IGE	iShares North American Natural Resources ETF	Equity	$609	1.88%	83,437	$43.30	-0.53%
+AGZ	iShares Agency Bond ETF	Bond	$608	2.10%	42,108	$108.84	0.04%
+IAT	iShares U.S. Regional Banks ETF	Equity	$607	-3.34%	361,846	$48.41	-0.31%
+COMT	iShares U.S. ETF Trust iShares GSCI Commodity Dynamic Roll Strategy ETF	Multi-Asset	$597	-0.91%	254,141	$25.08	0.12%
+ILTB	iShares Core 10+ Year USD Bond ETF	Bond	$591	0.40%	70,692	$48.07	-0.21%
+REM	iShares Mortgage Real Estate ETF	Real Estate	$575	2.59%	661,121	$21.80	-0.86%
+IETC	iShares U.S. Tech Independence Focused ETF	Equity	$570	2.72%	76,765	$87.57	-0.18%
+IBHE	iShares iBonds 2025 Term High Yield & Income ETF	Bond	$570	1.82%	164,508	$23.20	0.00%
+IHE	iShares U.S. Pharmaceuticals ETF	Equity	$561	-0.59%	113,779	$65.06	0.35%
+IBMP	iShares iBonds Dec 2027 Term Muni Bond ETF	Bond	$533	1.03%	80,773	$25.19	0.00%
+IBMO	iShares iBonds Dec 2026 Term Muni Bond ETF	Bond	$515	1.09%	66,967	$25.54	0.08%
+IXG	iShares Global Financials ETF	Equity	$506	13.66%	33,808	$109.18	0.36%
+IEO	iShares U.S. Oil & Gas Exploration & Production ETF	Equity	$498	-0.46%	82,359	$88.71	-1.16%
+IYM	iShares U.S. Basic Materials ETF	Equity	$498	4.34%	25,503	$135.10	0.44%
+LQDH	iShares Interest Rate Hedged Corporate Bond ETF	Bond	$450	1.06%	72,292	$91.85	-0.01%
+ISCV	iShares Morningstar Small Cap Value ETF	Equity	$450	-3.57%	36,490	$60.89	-0.52%
+IBMN	iShares iBonds Dec 2025 Term Muni Bond ETF	Bond	$448	1.15%	78,641	$26.73	0.00%
+WSML	iShares MSCI World Small-Cap ETF	Equity	$444	N/A	N/A	$26.80	-0.15%
+EMHY	iShares J.P. Morgan EM High Yield Bond ETF	Bond	$442	3.42%	105,892	$38.35	0.16%
+EWI	iShares MSCI Italy ETF	Equity	$442	31.50%	599,125	$47.30	0.96%
+EPOL	iShares MSCI Poland ETF	Equity	$442	46.29%	574,606	$30.53	0.69%
+IBMQ	iShares iBonds Dec 2028 Term Muni Bond ETF	Bond	$440	0.82%	71,570	$25.18	0.00%
+IBTK	iShares iBonds Dec 2030 Term Treasury ETF	Bond	$435	3.10%	141,000	$19.54	0.00%
+GARP	iShares MSCI USA Quality GARP ETF	Equity	$433	2.58%	84,925	$57.65	-0.14%
+CMBS	iShares CMBS ETF	Bond	$429	2.76%	51,837	$47.95	-0.50%
+IYZ	iShares U.S. Telecommunications ETF	Equity	$426	7.74%	1,154,522	$28.73	0.07%
+EEMA	iShares MSCI Emerging Markets Asia ETF	Equity	$424	9.41%	40,344	$78.39	0.17%
+TECB	iShares U.S. Tech Breakthrough Multisector ETF	Equity	$421	2.07%	40,243	$54.26	-0.13%
+HYGH	iShares Interest Rate Hedged High Yield Bond ETF	Bond	$412	2.22%	69,043	$86.21	0.27%
+EWQ	iShares MSCI France ETF	Equity	$398	19.09%	431,908	$42.73	1.14%
+XVV	iShares ESG Select Screened S&P 500 ETF	Equity	$396	1.25%	43,551	$45.75	0.09%
+BGRN	iShares Trust iShares USD Green Bond ETF	Bond	$393	2.06%	26,476	$46.91	-0.02%
+EWJV	iShares MSCI Japan Value ETF	Equity	$393	10.81%	157,906	$34.66	0.41%
+EZA	iShares MSCI South Africa ETF	Equity	$383	21.88%	157,922	$51.08	-0.31%
+IXP	iShares Global Comm Services ETF	Equity	$375	8.21%	42,437	$104.61	0.29%
+HEWJ	iShares Currency Hedged MSCI Japan ETF	Equity	$375	0.92%	110,559	$43.01	-0.67%
+CEMB	iShares J.P. Morgan EM Corporate Bond ETF	Bond	$370	2.51%	56,729	$44.70	-0.02%
+EWD	iShares MSCI Sweden ETF	Equity	$370	23.73%	210,578	$46.19	1.27%
+IBTL	iShares iBonds Dec 2031 Term Treasury ETF	Bond	$370	3.10%	125,570	$20.15	0.05%
+EEMS	iShares MSCI Emerging Markets Small-Cap ETF	Equity	$358	4.72%	42,868	$60.88	0.48%
+GNMA	iShares GNMA Bond ETF	Bond	$357	2.13%	34,343	$43.24	-0.14%
+IBTO	iShares iBonds Dec 2033 Term Treasury ETF	N/A	$339	3.05%	72,635	$24.03	-0.08%
+ISCF	iShares International Small‑Cap Equity Factor ETF	Equity	$339	15.15%	55,240	$37.17	0.81%
+SIZE	iShares MSCI USA Size Factor ETF	Equity	$335	2.86%	11,444	$152.23	-0.03%
+ISHG	iShares 1-3 Year International Treasury Bond ETF	Bond	$332	9.22%	91,156	$73.58	0.71%
+BALI	iShares Advantage Large Cap Income ETF	Equity	$331	0.33%	118,349	$29.31	0.14%
+IBDZ	iShares iBonds Dec 2034 Term Corporate ETF	N/A	$331	1.98%	88,556	$25.52	-0.04%
+SHYM	iShares High Yield Muni Income Active ETF	N/A	$323	-0.29%	166,106	$22.26	-0.04%
+EIDO	iShares MSCI Indonesia ETF	Equity	$320	1.41%	832,214	$18.74	1.90%
+IBTM	iShares iBonds Dec 2032 Term Treasury ETF	Bond	$318	3.10%	104,113	$22.60	-0.09%
+SMMV	iShares MSCI USA Small-Cap Min Vol Factor ETF	Equity	$314	2.88%	34,795	$42.44	0.09%
+LEMB	iShares J.P. Morgan EM Local Currency Bond ETF	Bond	$301	7.79%	87,122	$38.90	0.73%
+IBHG	iShares iBonds 2027 Term High Yield and Income ETF	Bond	$280	2.98%	95,063	$22.41	0.18%
+XJH	iShares ESG Select Screened S&P Mid-Cap ETF	Equity	$277	-1.40%	26,490	$41.15	-0.29%
+EIS	iShares MSCI Israel ETF	Equity	$266	8.23%	53,441	$83.39	0.55%
+EWN	iShares MSCI Netherlands ETF	Equity	$264	18.33%	46,749	$52.65	0.88%
+IVVB	iShares Large Cap Deep Buffer ETF	Equity	$260	-0.53%	119,452	$30.38	0.00%
+RXI	iShares Global Consumer Discretionary ETF	Equity	$259	3.90%	15,137	$191.55	-0.11%
+HAWX	iShares Currency Hedged MSCI ACWI ex U.S. ETF	Equity	$257	7.73%	48,551	$34.70	0.20%
+GOVZ	iShares 25+ Year Treasury STRIPS Bond ETF	Bond	$255	-4.45%	991,595	$9.30	-0.64%
+CMDY	iShares Bloomberg Roll Select Commodity Strategy ETF	Commodity	$253	3.98%	54,637	$49.47	-0.10%
+IMTB	iShares Core 5-10 Year USD Bond ETF	Bond	$248	2.55%	28,610	$42.90	0.02%
+SLVP	iShares MSCI Global Silver Miners ETF	Equity	$248	26.95%	204,775	$14.65	1.81%
+EWM	iShares MSCI Malaysia ETF	Equity	$242	0.65%	362,144	$24.69	-0.72%
+BYLD	iShares Yield Optimized Bond ETF	Bond	$239	2.27%	62,513	$22.26	0.00%
+IBMR	iShares iBonds Dec 2029 Term Muni Bond ETF	N/A	$239	0.76%	60,743	$24.96	0.04%
+LQDW	iShares Investment Grade Corporate Bond BuyWrite Strategy ETF	Bond	$237	N/A	N/A	N/A	0.00%
+ISCB	iShares Morningstar Small-Cap ETF	Equity	$232	-2.45%	12,424	$57.06	-0.45%
+LCTD	BlackRock World ex U.S. Carbon Transition Readiness ETF	Equity	$230	14.27%	29,222	$49.73	0.89%
+EDEN	iShares MSCI Denmark ETF	Equity	$227	5.35%	8,594	$112.07	1.65%
+PMMF	iShares Prime Money Market ETF	N/A	$226	N/A	46,167	$100.33	0.04%
+IBHH	iShares iBonds 2028 Term High Yield and Income ETF	Bond	$225	N/A	N/A	N/A	0.00%
+HYGW	iShares High Yield Corporate Bond BuyWrite Strategy ETF	Bond	$221	0.85%	47,198	$30.59	0.00%
+TOPT	iShares Top 20 U.S. Stocks ETF	Equity	$221	-0.33%	353,319	$25.95	0.15%
+CNYA	iShares MSCI China A ETF	Equity	$220	0.86%	159,330	$28.14	-0.35%
+MXI	iShares Global Materials ETF	Equity	$220	9.25%	14,603	$84.89	0.52%
+TOK	iShares MSCI Kokusai ETF	Equity	$213	4.96%	4,702	$121.79	0.30%
+WOOD	iShares Global Timber & Forestry ETF	Equity	$208	-1.55%	12,148	$75.16	-0.15%
+THD	iShares MSCI Thailand ETF	Equity	$207	-8.45%	78,525	$55.33	0.33%
+HYBB	iShares BB Rated Corporate Bond ETF	Bond	$205	2.90%	127,467	$46.23	0.06%
+BRTR	iShares Total Return Active ETF	N/A	$198	2.18%	29,659	$49.59	-0.12%
+AQLT	iShares MSCI Global Quality Factor ETF	Equity	$192	N/A	N/A	N/A	0.00%
+JXI	iShares Global Utilities ETF	Equity	$182	14.40%	19,211	$73.39	0.63%
+GHYG	iShares US & Intl High Yield Corp Bond ETF	Bond	$180	4.35%	33,449	$45.09	-0.02%
+HYXF	iShares ESG Advanced High Yield Corporate Bond ETF	Bond	$175	3.07%	36,837	$46.61	-0.28%
+SDG	iShares MSCI Global Sustainable Development Goals ETF	Equity	$170	5.11%	12,506	$75.22	0.07%
+HEEM	iShares Currency Hedged MSCI Emerging Markets ETF	Equity	$162	7.08%	27,837	$28.94	-0.07%
+IBHI	iShares iBonds 2029 Term High Yield and Income ETF	Bond	$161	N/A	N/A	N/A	0.00%
+HSCZ	iShares Currency Hedged MSCI EAFE Small Cap ETF	Equity	$155	6.50%	27,287	$34.09	-0.12%
+GBF	iShares Government/Credit Bond ETF	Bond	$154	1.97%	5,433	$102.87	0.01%
+IDRV	iShares Self-driving EV & Tech ETF	Equity	$152	7.22%	24,944	$31.34	-0.73%
+PABD	iShares Paris-Aligned Climate MSCI World ex USA ETF	Equity	$145	15.08%	10,970	$58.88	0.98%
+BAI	iShares A.I. Innovation and Tech Active ETF	Equity	$143	-5.32%	96,657	$25.64	-0.39%
+TUR	iShares MSCI Turkey ETF	Equity	$139	-9.40%	244,776	$32.49	0.19%
+EPU	iShares MSCI Peru and Global Exposure ETF	Equity	$139	14.01%	80,281	$45.16	1.32%
+EWZS	iShares MSCI Brazil Small-Cap ETF	Equity	$138	36.11%	318,422	$12.59	0.88%
+SVAL	iShares US Small Cap Value Factor ETF	Equity	$133	-5.44%	21,863	$30.70	-0.45%
+IBTP	iShares iBonds Dec 2034 Term Treasury ETF	N/A	$130	2.81%	38,216	$25.21	-0.04%
+GLOF	iShares Global Equity Factor ETF	Equity	$127	6.70%	24,906	$46.27	0.35%
+SCJ	iShares MSCI Japan Small Cap ETF	Equity	$122	11.08%	39,433	$81.26	0.54%
+QTOP	iShares Nasdaq Top 30 Stocks ETF	Equity	$120	0.94%	99,651	$26.49	0.08%
+IEZ	iShares U.S. Oil Equipment & Services ETF	Equity	$119	-14.50%	164,022	$16.86	-1.17%
+EPHE	iShares MSCI Philippines ETF	Equity	$115	11.47%	93,430	$27.90	0.76%
+MAXJ	iShares Large Cap Max Buffer Jun ETF	Equity	$114	N/A	N/A	N/A	0.00%
+IDGT	iShares U.S. Digital Infrastructure and Real Estate ETF	Equity	$113	0.37%	15,076	$80.60	0.10%
+IYLD	iShares Morningstar Multi-Asset Income ETF	Multi-Asset	$112	6.49%	26,978	$20.48	0.15%
+UAE	iShares MSCI UAE ETF	Equity	$111	13.30%	187,224	$18.65	0.92%
+IEUS	iShares MSCI Europe Small-Cap ETF	Equity	$108	20.39%	14,748	$64.59	1.32%
+IDNA	iShares Genomics Immunology and Healthcare ETF	Equity	$105	-11.36%	34,379	$20.06	1.26%
+BRHY	iShares High Yield Active ETF	N/A	$102	2.65%	2,308	$50.97	-0.02%
+VEGI	iShares MSCI Agriculture Producers ETF	Equity	$99	14.06%	22,062	$40.41	-0.17%
+XJR	iShares ESG Select Screened S&P Small-Cap ETF	Equity	$98	-5.21%	12,598	$38.99	-0.41%
+IGBH	iShares Interest Rate Hedged Long-Term Corporate Bond ETF	Bond	$98	0.24%	52,541	$23.84	-0.04%
+CSHP	iShares Enhanced Short-Term Bond Active ETF	N/A	$97	1.57%	944	$100.55	-0.02%
+EMXF	iShares ESG Advanced MSCI EM ETF	Equity	$94	10.46%	7,432	$41.17	0.41%
+JPXN	iShares JPX-Nikkei 400 ETF	Equity	$93	9.42%	25,070	$77.48	0.25%
+CALI	iShares Short-Term California Muni Active ETF	N/A	$93	0.95%	28,475	$50.19	0.02%
+SMAX	iShares Large Cap Max Buffer Sep ETF	Equity	$92	N/A	N/A	N/A	0.00%
+LQDI	iShares Inflation Hedged Corporate Bond ETF	Bond	$90	3.09%	7,092	$25.84	0.00%
+IVVM	iShares Large Cap Moderate Buffer ETF	Equity	$90	3.56%	36,260	$31.75	0.00%
+IFGL	iShares International Developed Real Estate ETF	Real Estate	$88	12.21%	22,460	$21.55	0.33%
+DMAX	iShares Large Cap Max Buffer Dec ETF	Equity	$87	N/A	N/A	N/A	0.00%
+KWT	iShares MSCI Kuwait ETF	Equity	$87	14.35%	20,681	$36.85	-0.16%
+BKF	iShares MSCI BIC ETF	Equity	$86	12.74%	19,190	$41.14	0.59%
+IBIE	iShares iBonds Oct 2028 Term TIPS ETF	N/A	$86	3.67%	37,249	$26.08	0.12%
+EWO	iShares MSCI Austria ETF	Equity	$85	36.30%	111,913	$28.58	0.67%
+INMU	iShares Intermediate Muni Income Active ETF	Bond	$84	-0.08%	53,654	$23.31	-0.21%
+QAT	iShares MSCI Qatar ETF	Equity	$83	6.25%	30,260	$19.05	0.90%
+FILL	iShares MSCI Global Energy Producers ETF	Equity	$79	1.68%	10,417	$23.22	-0.64%
+ENZL	MSCI New Zealand All Cap Top 25 Capped Index	Equity	$75	-0.07%	6,968	$45.15	-0.57%
+IBMS	iShares iBonds Dec 2030 Term Muni Bond ETF	N/A	$72	0.79%	34,051	$25.36	-0.04%
+FIBR	iShares U.S. Fixed Income Balanced Risk Systematic ETF	Bond	$70	2.49%	3,405	$87.59	0.10%
+IBIG	iShares iBonds Oct 2030 Term TIPS ETF	N/A	$69	4.32%	31,613	$26.12	0.08%
+ECNS	iShares MSCI China Small-Cap ETF	Equity	$68	11.10%	25,757	$28.37	1.43%
+IBGA	iShares iBonds Dec 2044 Term Treasury ETF	N/A	$64	0.89%	18,889	$24.23	-0.29%
+EIRL	iShares MSCI Ireland ETF	Equity	$63	8.84%	5,200	$63.92	1.38%
+BRLN	iShares Floating Rate Loan Active ETF	N/A	$60	1.22%	11,803	$51.81	0.08%
+BCLO	iShares BBB-B CLO Active ETF	N/A	$59	N/A	8,751	$49.63	0.24%
+IBHJ	iShares iBonds 2030 Term High Yield and Income ETF	N/A	$56	N/A	N/A	N/A	0.00%
+ICOP	iShares Copper and Metals Mining ETF	Equity	$52	7.29%	16,135	$27.38	0.92%
+IBIC	iShares iBonds Oct 2026 Term TIPS ETF	N/A	$49	2.70%	15,600	$25.86	0.00%
+GMMF	iShares Government Money Market ETF	N/A	$48	N/A	6,003	$100.32	0.04%
+BEMB	iShares J.P. Morgan Broad USD Emerging Markets Bond ETF	N/A	$47	N/A	N/A	N/A	0.00%
+Symbol
+ETF Name
+Asset Class
+Total Assets ($MM)
+YTD Price Change
+Avg. Daily Volume
+Previous Closing Price
+1-Day Change
+IBID	iShares iBonds Oct 2027 Term TIPS ETF	N/A	$44	3.20%	17,878	$26.08	0.00%
+LQDB	iShares BBB Rated Corporate Bond ETF	Bond	$42	1.86%	892	$85.13	0.07%
+IBIK	iShares iBonds Oct 2034 Term TIPS ETF	N/A	$42	3.96%	9,635	$25.35	0.00%
+DVYA	iShares Asia/Pacific Dividend ETF	Equity	$41	5.75%	4,895	$37.58	-0.11%
+HYXU	iShares International High Yield Bond ETF	Bond	$41	10.75%	7,408	$52.07	0.77%
+IVVW	iShares S&P 500 BuyWrite ETF	Equity	$41	-3.03%	12,460	$45.13	0.16%
+CCRV	iShares Commodity Curve Carry Strategy ETF	Commodity	$40	-2.53%	14,902	$19.50	0.31%
+EWUS	iShares MSCI United Kingdom Small-Cap ETF	Equity	$39	14.25%	4,497	$39.66	1.28%
+ENOR	iShares MSCI Norway ETF	Equity	$38	20.44%	15,225	$27.05	0.26%
+BLCV	iShares Large Cap Value Active ETF	Equity	$37	6.71%	10,543	$33.56	0.21%
+IBIF	iShares iBonds Oct 2029 Term TIPS ETF	N/A	$37	4.11%	7,157	$26.15	0.11%
+IEDI	iShares U.S. Consumer Focused ETF	Equity	$36	2.67%	5,616	$54.73	0.20%
+MMAX	iShares Large Cap Max Buffer Mar ETF	Equity	$35	N/A	N/A	N/A	0.00%
+IBLC	iShares Blockchain and Tech ETF	Equity	$35	-1.16%	12,016	$33.79	0.75%
+IBCA	iShares iBonds Dec 2035 Term Corporate ETF	N/A	$35	N/A	N/A	$25.07	0.16%
+IBIB	iShares iBonds Oct 2025 Term TIPS ETF	N/A	$34	1.75%	11,043	$25.50	0.00%
+ITDC	iShares LifePath Target Date 2035 ETF USD	Multi-Asset	$34	4.46%	14,762	$31.18	0.19%
+ITDD	iShares LifePath Target Date 2040 ETF	Multi-Asset	$33	4.76%	13,749	$31.91	0.22%
+INRO	iShares U.S. Industry Rotation Active ETF	Equity	$30	0.20%	7,262	$27.80	0.04%
+EAOA	iShares ESG Aware 80/20 Aggressive Allocation ETF	Multi-Asset	$30	4.48%	2,252	$37.20	0.32%
+ITDE	iShares LifePath Target Date 2045 ETF USD	Multi-Asset	$29	4.95%	8,051	$32.43	0.31%
+LDEM	iShares ESG MSCI EM Leaders ETF	Equity	$29	14.33%	3,173	$51.87	0.27%
+ISVL	iShares International Developed Small Cap Value Factor ETF	Equity	$28	17.57%	3,414	$40.32	1.13%
+ITDF	iShares LifePath Target Date 2050 ETF USD	Multi-Asset	$27	5.28%	7,400	$32.92	0.37%
+EGUS	iShares ESG Aware MSCI USA Growth ETF	Equity	$27	-0.31%	3,627	$44.41	0.00%
