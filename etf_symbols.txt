@@ -17,6 +17,13 @@ SMLF iShares U.S. Small‑Cap Equity Factor
 XSMO Invesco S&P SmallCap Momentum
 JMOM JPMorgan U.S. Momentum Factor
 VFMO Vanguard U.S. Momentum Factor
+VFMF Vanguard U.S. Multifactor
+FLRG Fidelity U.S. Multifactor
+LRGF iShares U.S. Equity Factor
+INTF iShares International Equity Factor
+GSLC Goldman Sachs ActiveBeta U.S. Large Cap Equity
+USMF WisdomTree U.S. Multifactor
+RODM Hartford Multifactor Developed Markets (ex-US)
 
 
 
