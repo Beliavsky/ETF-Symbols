@@ -1,0 +1,26 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+GSLC	TR Activebeta US Large Cap Equity ETF	Equity	$13,347	2.21%	291,976	$117.38	0.12%
+GBIL	ACCESS TREASURY 0-1 YEAR ETF	Bond	$6,170	1.45%	889,756	$100.01	0.00%
+GSIE	Goldman Sachs ActiveBeta International Equity ETF	Equity	$3,913	16.85%	507,200	$38.82	0.83%
+GSUS	Goldman Sachs MarketBeta U.S. Equity ETF	Equity	$2,605	1.88%	80,589	$82.11	0.13%
+GUSA	Goldman Sachs MarketBeta U.S. 1000 Equity ETF	Equity	$1,862	1.74%	502	$51.54	0.08%
+AAAU	Goldman Sachs Physical Gold ETF	Commodity	$1,421	23.19%	2,041,727	$31.95	1.30%
+GLOV	Activebeta World Low Vol Plus Equity ETF	Equity	$1,260	9.54%	64,452	$53.98	0.62%
+GSEW	Goldman Sachs Equal Weight U.S. Large Cap Equity ETF	Equity	$1,225	4.06%	104,354	$80.11	-0.09%
+GEM	Goldman Sachs ActiveBeta Emerging Markets Equity ETF	Equity	$963	10.40%	129,946	$35.24	0.26%
+GSST	Goldman Sachs Ultra Short Bond ETF	Bond	$874	1.91%	276,800	$50.41	-0.02%
+GSID	Marketbeta INTL Equity ETF	Equity	$840	16.06%	21,956	$62.58	0.85%
+GPIX	Goldman Sachs S&P 500 Premium Income ETF	Equity	$795	1.43%	258,730	$48.42	0.10%
+GPIQ	Goldman Sachs Nasdaq-100 Premium Income ETF	Equity	$783	1.99%	285,865	$47.87	0.13%
+GIGB	Goldman Sachs Access Investment Grade Corporate Bond ETF	Bond	$683	1.89%	129,586	$45.20	0.04%
+GSSC	TR Activebeta US Small Cap Equity ETF	Equity	$542	-3.25%	38,795	$66.71	-0.09%
+GCOR	Goldman Sachs Access U.S. Aggregate Bond ETF	Bond	$539	2.13%	146,908	$40.71	0.02%
+GXUS	Goldman Sachs MarketBeta Total International Equity ETF	Equity	$487	13.75%	306	$49.26	0.61%
+JUST	Goldman Sachs JUST U.S. Large Cap Equity ETF	Equity	$443	1.46%	10,886	$84.11	0.12%
+GVUS	Marketbeta Russell 1000 Value Equity ETF	Equity	$371	3.90%	11,903	$49.16	0.16%
+GVIP	Goldman Sachs Hedge Industry VIP ETF	Equity	$328	5.92%	13,754	$131.42	0.05%
+GGUS	Marketbeta Russell 1000 Growth Equity ETF	Equity	$305	0.90%	32,148	$54.94	-0.07%
+GINN	Innovate Equity ETF	Equity	$214	3.55%	13,663	$63.73	-0.17%
+GTEK	Goldman Sachs Future Tech Leaders Equity ETF	Equity	$165	3.55%	19,992	$33.46	-0.36%
+GTIP	Goldman Sachs Access Inflation Protected USD Bond ETF	Bond	$146	3.20%	11,825	$49.02	0.00%
+GSC	Goldman Sachs Small Cap Equity ETF	Equity	$139	-3.13%	22,110	$49.63	-0.32%

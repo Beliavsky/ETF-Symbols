@@ -1,0 +1,126 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+QQQ	Invesco QQQ Trust Series I	Equity	$329,082	2.26%	50,954,540	$522.01	0.10%
+RSP	Invesco S&P 500® Equal Weight ETF	Equity	$73,809	3.20%	9,733,124	$179.97	-0.01%
+QQQM	Invesco NASDAQ 100 ETF	Equity	$48,142	2.30%	3,225,675	$214.94	0.11%
+SPHQ	Invesco S&P 500® Quality ETF	Equity	$13,441	5.84%	1,388,670	$70.73	0.40%
+XLG	Invesco S&P 500® Top 50 ETF	Equity	$8,799	-0.79%	3,173,286	$49.47	0.08%
+SPLV	Invesco S&P 500® Low Volatility ETF	Equity	$8,041	6.16%	2,963,294	$73.88	0.24%
+PRF	Invesco RAFI US 1000 ETF	Equity	$7,793	2.83%	499,683	$41.29	0.05%
+SPMO	Invesco S&P 500® Momentum ETF	Equity	$7,574	10.99%	1,402,987	$105.25	0.05%
+PBUS	Invesco MSCI USA ETF	Equity	$7,058	1.89%	461,030	$59.81	0.10%
+BKLN	Invesco Senior Loan ETF	Bond	$6,625	1.05%	23,478,820	$20.82	-0.86%
+RWL	Invesco S&P 500 Revenue ETF	Equity	$5,518	4.75%	248,035	$102.17	-0.06%
+PPA	Invesco Aerospace & Defense ETF	Equity	$5,182	15.32%	192,105	$132.26	0.53%
+XMHQ	Invesco S&P MidCap Quality ETF	Equity	$5,096	1.47%	487,097	$99.72	-0.24%
+OMFL	Invesco Russell 1000 Dynamic Multifactor ETF	Equity	$4,815	4.47%	343,157	$56.53	0.30%
+PDBC	Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF	Commodity	$4,363	-2.23%	5,067,825	$12.70	-0.31%
+BSCQ	Invesco BulletShares 2026 Corporate Bond ETF	Bond	$4,210	1.58%	700,224	$19.47	-0.26%
+PGX	Invesco Preferred ETF	Preferred Stock	$3,989	-2.19%	7,655,522	$11.06	-0.18%
+XMMO	Invesco S&P MidCap Momentum ETF	Equity	$3,805	2.15%	326,246	$125.86	-0.11%
+KBWB	Invesco KBW Bank ETF	Equity	$3,802	3.48%	2,225,938	$67.19	-0.36%
+BSCR	Invesco BulletShares 2027 Corporate Bond ETF	Bond	$3,510	1.85%	1,054,746	$19.57	-0.25%
+BSCP	Invesco BulletShares 2025 Corporate Bond ETF	Bond	$3,479	1.40%	968,005	$20.66	-0.29%
+RSPT	Invesco S&P 500 Equal Weight Technology ETF	Equity	$3,394	2.95%	486,575	$38.48	-0.44%
+SPHD	Invesco S&P 500® High Dividend Low Volatility ETF	Equity	$3,261	0.78%	912,202	$48.14	-0.04%
+SPGP	Invesco S&P 500 GARP ETF	Equity	$2,928	0.20%	238,637	$104.61	-0.30%
+PZA	Invesco National AMT-Free Municipal Bond ETF	Bond	$2,897	-3.29%	1,879,417	$22.58	-0.44%
+GSY	Invesco Ultra Short Duration ETF	Bond	$2,850	0.96%	730,919	$50.01	-0.36%
+BSCS	Invesco BulletShares 2028 Corporate Bond ETF	Bond	$2,557	2.48%	476,297	$20.33	-0.25%
+TBLL	Invesco Short Term Treasury ETF	Bond	$2,380	1.22%	376,103	$105.40	-0.30%
+PRFZ	Invesco RAFI US 1500 Small-Mid ETF	Equity	$2,349	-4.10%	435,052	$39.86	-0.37%
+KLMN	Invesco MSCI North America Climate ETF	Equity	$2,173	2.14%	2,484,840	$24.50	0.12%
+PHO	Invesco Water Resources ETF	Equity	$2,170	5.20%	71,278	$69.11	-0.22%
+VRP	Invesco Variable Rate Preferred ETF	Multi-Asset	$2,055	1.64%	574,122	$24.15	-0.41%
+BSCT	Invesco BulletShares 2029 Corporate Bond ETF	Bond	$1,980	2.43%	400,948	$18.51	-0.27%
+PXF	Invesco RAFI Developed Markets ex-U.S. ETF	Equity	$1,957	17.02%	132,744	$55.56	0.74%
+GTO	Invesco Total Return Bond ETF	Bond	$1,899	0.90%	212,140	$46.11	-0.41%
+RPG	Invesco S&P 500® Pure Growth ETF	Equity	$1,594	6.64%	503,741	$43.97	0.11%
+BSCU	Invesco BulletShares 2030 Corporate Bond ETF	Bond	$1,557	2.67%	440,233	$16.56	-0.24%
+XSMO	Invesco S&P SmallCap Momentum ETF	Equity	$1,542	1.21%	311,675	$66.70	-0.27%
+RWJ	Invesco S&P SmallCap 600 Revenue ETF	Equity	$1,519	-7.52%	244,627	$42.19	-0.85%
+PXH	Invesco RAFI Emerging Markets ETF	Equity	$1,368	11.42%	314,086	$22.70	0.22%
+EQWL	Invesco S&P 100 Equal Weight ETF	Equity	$1,360	4.82%	94,435	$106.66	0.07%
+RPV	Invesco S&P 500® Pure Value ETF	Equity	$1,354	3.54%	229,633	$92.72	-0.12%
+PKW	Invesco BuyBack Achievers™ ETF	Equity	$1,282	4.79%	31,473	$120.32	0.05%
+PDP	Invesco Dorsey Wright Momentum ETF	Equity	$1,256	-0.59%	26,005	$106.93	0.22%
+KLMT	Invesco MSCI Global Climate 500 ETF	Equity	$1,243	5.92%	140	$27.49	0.29%
+QVML	Invesco S&P 500 QVM Multi-factor ETF	Equity	$1,235	2.56%	6,310	$35.30	-0.03%
+VRIG	Invesco Variable Rate Investment Grade ETF	Bond	$1,188	1.17%	692,475	$25.00	-0.40%
+PCY	Invesco Emerging Markets Sovereign Debt ETF	Bond	$1,177	1.93%	330,327	$19.77	-0.70%
+DBC	Invesco DB Commodity Index Tracking Fund	Commodity	$1,153	-1.03%	1,688,841	$21.16	-0.14%
+PEY	Invesco High Yield Equity Dividend Achievers™ ETF	Equity	$1,143	-1.06%	199,173	$20.74	-0.58%
+PWB	Invesco Large Cap Growth ETF	Equity	$1,099	8.71%	36,897	$110.60	0.54%
+PWV	Invesco Large Cap Value ETF	Equity	$1,062	7.44%	40,176	$60.69	0.07%
+BSJQ	Invesco BulletShares 2026 High Yield Corp Bond ETF	Bond	$1,016	1.91%	302,914	$23.24	-0.64%
+CQQQ	Invesco China Technology ETF	Equity	$988	8.51%	737,706	$42.73	-0.07%
+BSCV	Invesco BulletShares 2031 Corporate Bond ETF	Bond	$966	2.82%	280,902	$16.25	-0.25%
+CGW	Invesco S&P Global Water Index ETF	Equity	$952	12.21%	48,095	$60.82	0.58%
+BSJP	Invesco BulletShares 2025 High Yield Corporate Bond ETF	Bond	$949	1.65%	244,578	$23.03	-0.43%
+BAB	Invesco Taxable Municipal Bond ETF	Bond	$921	0.72%	181,830	$25.99	-0.46%
+GOVI	Invesco Equal Weight 0-30 Year Treasury ETF	Bond	$876	0.74%	289,127	$26.90	-0.55%
+PNQI	Invesco NASDAQ Internet ETF	Equity	$870	6.10%	95,676	$49.54	-0.02%
+FXY	Invesco Currencyshares Japanese Yen Trust	Currency	$850	8.56%	544,859	$63.64	0.82%
+PID	Invesco International Dividend Achievers™ ETF	Equity	$844	11.49%	102,562	$20.24	0.65%
+DBA	Invesco DB Agriculture Fund	Commodity	$842	3.72%	346,873	$27.58	0.88%
+XMLV	Invesco S&P MidCap Low Volatility ETF	Equity	$835	4.01%	41,119	$62.73	0.19%
+RWK	Invesco S&P MidCap 400 Revenue ETF	Equity	$827	-0.84%	35,116	$114.86	-0.43%
+BSCW	Invesco BulletShares 2032 Corporate Bond ETF	Bond	$822	2.28%	155,506	$20.24	-0.34%
+IDMO	Invesco S&P International Developed Momentum ETF	Equity	$811	21.44%	232,811	$49.11	1.15%
+PCEF	Invesco CEF Income Composite ETF	Multi-Asset	$797	1.52%	208,081	$18.91	-0.99%
+RDIV	Invesco S&P Ultra Dividend Revenue ETF	Equity	$792	0.69%	46,602	$48.09	-0.29%
+PGF	Invesco Financial Preferred ETF	Preferred Stock	$791	-1.50%	233,733	$14.05	-0.21%
+RSPH	Invesco S&P 500 Equal Weight Health Care ETF	Equity	$762	-0.30%	86,630	$29.16	0.59%
+PFM	Invesco Dividend Achievers™ ETF	Equity	$699	2.75%	30,097	$46.94	0.23%
+TAN	Invesco Solar ETF	Equity	$678	3.47%	941,551	$34.27	-2.48%
+PWZ	Invesco California AMT-Free Municipal Bond ETF	Bond	$671	-4.09%	276,724	$23.43	-0.47%
+PSI	Invesco Semiconductors ETF	Equity	$669	-8.16%	78,267	$53.19	-0.80%
+DWAS	Invesco Dorsey Wright SmallCap Momentum ETF	Equity	$660	-9.34%	53,314	$82.71	0.16%
+EQAL	Invesco Russell 1000 Equal Weight ETF	Equity	$648	1.30%	68,805	$48.70	-0.23%
+RSPN	Invesco S&P 500 Equal Weight Industrials ETF	Equity	$635	6.19%	90,817	$53.19	0.15%
+IUS	Invesco RAFI Strategic US ETF	Equity	$616	1.83%	77,254	$50.36	0.02%
+QQQJ	Invesco NASDAQ Next Gen 100 ETF	Equity	$616	1.34%	114,716	$31.25	-0.03%
+XSVM	Invesco S&P SmallCap Value with Momentum ETF	Equity	$601	-5.30%	74,952	$51.19	-0.72%
+BTCO	Invesco Galaxy Bitcoin ETF	Currency	$560	12.87%	207,065	$105.32	1.39%
+BSCX	Invesco BulletShares 2033 Corporate Bond ETF	N/A	$543	2.25%	100,249	$20.75	-0.38%
+IMFL	Invesco International Developed Dynamic Multifactor ETF	Equity	$536	N/A	N/A	N/A	0.00%
+FXE	Invesco CurrencyShares Euro Trust	Currency	$515	9.07%	227,676	$103.76	0.87%
+KBWP	Invesco KBW Property & Casualty Insurance ETF	Equity	$481	8.47%	32,054	$125.22	0.51%
+BSJR	Invesco BulletShares 2027 High Yield Corporate Bond ETF	Bond	$477	2.60%	117,224	$22.50	-0.62%
+FXF	Invesco CurrencyShares Swiss Franc Trust	Currency	$476	8.65%	144,235	$106.33	0.62%
+GRPM	Invesco S&P MidCap 400 GARP ETF	Equity	$465	-4.87%	31,957	$107.26	-0.92%
+RSPU	Invesco S&P 500 Equal Weight Utilities ETF	Equity	$460	11.36%	50,268	$72.71	0.44%
+SOXQ	Invesco PHLX Semiconductor ETF	Equity	$459	-1.47%	545,841	$38.57	-0.49%
+RSPG	Invesco S&P 500 Equal Weight Energy ETF	Equity	$451	-1.73%	81,162	$74.57	-1.24%
+IDHQ	Invesco S&P International Developed High Quality ETF	Equity	$435	14.79%	86,490	$32.24	0.75%
+IGPT	Invesco AI and Next Gen Software ETF	Equity	$429	0.93%	58,148	$45.65	-0.22%
+PTF	Invesco Dorsey Wright Technology Momentum ETF	Equity	$415	-10.36%	109,990	$64.89	-0.37%
+KBWD	Invesco KBW High Dividend Yield Financial ETF	Equity	$406	-1.16%	262,570	$13.94	-1.20%
+BSJS	Invesco BulletShares 2028 High Yield Corporate Bond ETF	Bond	$397	2.53%	100,152	$21.75	-0.50%
+IDLV	Invesco S&P International Developed Low Volatility ETF	Equity	$388	18.48%	104,203	$32.72	1.36%
+EELV	Invesco S&P Emerging Markets Low Volatility ETF	Equity	$384	12.03%	64,867	$25.94	0.27%
+SPHB	Invesco S&P 500® High Beta ETF	Equity	$374	2.08%	446,787	$90.33	-0.29%
+QVMM	Invesco S&P MidCap 400 QVM Multi-factor ETF	Equity	$349	-0.17%	2,232	$28.53	-0.28%
+PRN	Invesco Dorsey Wright Industrials Momentum ETF	Equity	$345	-2.85%	99,013	$149.38	-0.05%
+PDN	Invesco RAFI Developed Markets ex-U.S. Small-Mid ETF	Equity	$345	16.19%	110,635	$36.45	0.69%
+DJD	Invesco Dow Jones Industrial Average Dividend ETF	Equity	$344	3.59%	28,202	$52.18	0.37%
+PHB	Invesco Fundamental High Yield® Corporate Bond ETF	Bond	$337	2.33%	107,217	$18.16	-0.49%
+PEJ	Invesco Leisure and Entertainment ETF	Equity	$331	1.67%	129,249	$53.05	-0.38%
+XSHQ	Invesco S&P SmallCap Quality ETF	Equity	$330	-3.25%	128,068	$40.82	-0.41%
+RSPA	Invesco S&P 500 Equal Weight Income Advantage ETF	Equity	$328	0.70%	36,143	$49.17	-0.91%
+RSPF	Invesco S&P 500 Equal Weight Financials ETF	Equity	$316	3.44%	14,295	$74.51	0.01%
+IMF	Invesco Managed Futures Strategy ETF	N/A	$306	N/A	N/A	N/A	0.00%
+ICLO	Invesco AAA CLO Floating Rate Note ETF	Bond	$306	1.01%	164,300	$25.44	-0.66%
+XSLV	Invesco S&P SmallCap Low Volatility ETF	Equity	$292	-1.44%	25,395	$46.53	-0.15%
+RFG	Invesco S&P MidCap 400® Pure Growth ETF	Equity	$291	0.24%	19,708	$48.50	-0.21%
+PIZ	Invesco Dorsey Wright Developed Markets Momentum ETF	Equity	$282	19.44%	49,456	$43.21	0.68%
+UUP	Invesco DB US Dollar Index Bullish Fund	Currency	$280	-5.88%	1,085,606	$27.69	-0.68%
+BSMQ	Invesco BulletShares 2026 Municipal Bond ETF	Bond	$275	0.47%	56,019	$23.47	-0.30%
+RSPS	Invesco S&P 500 Equal Weight Consumer Staples ETF	Equity	$268	1.40%	71,138	$30.52	0.10%
+PIO	Invesco Global Water ETF	Equity	$268	11.43%	11,838	$43.47	0.12%
+PSP	Invesco Global Listed Private Equity ETF	Equity	$262	1.76%	45,789	$67.72	0.22%
+XMVM	Invesco S&P MidCap Value with Momentum ETF	Equity	$262	0.53%	17,092	$55.31	-0.63%
+PBW	Invesco WilderHill Clean Energy ETF	Equity	$260	-9.95%	447,256	$18.02	-2.54%
+BSJT	Invesco BulletShares 2029 High Yield Corporate Bond ETF	Bond	$259	0.84%	73,575	$21.10	-0.75%
+PSCT	Invesco S&P SmallCap Information Technology ETF	Equity	$258	-8.42%	19,916	$43.71	-1.09%
+BSMR	Invesco BulletShares 2027 Municipal Bond ETF	Bond	$253	-0.38%	71,383	$23.30	-0.81%
+RFV	Invesco S&P MidCap 400® Pure Value ETF	Equity	$245	-2.17%	9,068	$117.98	-0.48%

@@ -1,0 +1,51 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+JEPI	JPMorgan Equity Premium Income Fund	Equity	$39,873	0.52%	5,342,628	$56.29	0.09%
+JPST	JPMorgan Ultra-Short Income ETF	Bond	$30,842	1.81%	7,658,509	$50.52	0.02%
+JEPQ	JPMorgan NASDAQ Equity Premium Income ETF	Equity	$25,552	-3.15%	7,340,046	$52.53	0.02%
+BBJP	JPMorgan BetaBuilders Japan ETF	Equity	$12,654	8.29%	1,454,690	$59.44	0.15%
+BBCA	JPMorgan BetaBuilders Canada ETF	Equity	$7,972	9.21%	388,703	$77.09	0.33%
+JIRE	JPMorgan International Research Enhanced Equity ETF	Equity	$7,062	17.16%	480,875	$68.55	0.93%
+JGLO	JPMorgan Global Select Equity ETF Global Select Equity ETF	Equity	$6,701	3.50%	316,795	$62.14	0.37%
+JCPB	JPMorgan Core Plus Bond ETF	Bond	$6,315	2.16%	864,863	$46.30	0.00%
+JQUA	JPMorgan U.S. Quality Factor ETF	Equity	$6,158	4.21%	783,594	$59.52	0.08%
+JGRO	JPMorgan Active Growth ETF	Equity	$5,663	0.16%	538,568	$81.16	0.11%
+BBIN	JPMorgan BetaBuilders International Equity ETF	Equity	$5,179	16.19%	339,573	$66.13	1.02%
+BBAX	JPMorgan BetaBuilders Developed Asia Pacific-ex Japan ETF	Equity	$5,004	8.79%	285,586	$52.56	0.59%
+BBUS	JPMorgan BetaBuilders U.S. Equity ETF	Equity	$4,665	1.94%	262,110	$107.69	0.12%
+BBEU	JPMorgan BetaBuilders Europe ETF	Equity	$4,505	20.85%	541,016	$66.77	1.24%
+JPIE	JPMorgan Income ETF	Bond	$3,741	2.44%	751,164	$45.85	0.02%
+JMST	JPMorgan Ultra-Short Municipal Income ETF	Bond	$3,683	1.13%	641,795	$50.77	0.02%
+JAVA	JPMorgan Active Value ETF	Equity	$3,466	1.95%	391,464	$64.37	0.11%
+HELO	JPMorgan Hedged Equity Laddered Overlay ETF	Equity	$3,120	-0.54%	502,024	$61.62	0.03%
+JMUB	JPMorgan Municipal ETF	Bond	$2,833	-0.17%	555,248	$49.50	-0.10%
+JBND	JPMorgan Active Bond ETF	N/A	$1,974	2.41%	333,190	$52.72	-0.02%
+BBMC	JPMorgan BetaBuilders U.S. Mid Cap Equity ETF	Equity	$1,868	-0.64%	101,946	$95.42	-0.33%
+JMEE	JPMorgan Small & Mid Cap Enhanced Equity ETF	Equity	$1,820	-3.22%	233,113	$58.52	-0.46%
+JTEK	JPMorgan U.S. Tech Leaders ETF	Equity	$1,640	2.48%	300,729	$77.55	-0.10%
+JMOM	JPMorgan U.S. Momentum Factor ETF	Equity	$1,474	5.83%	108,702	$61.55	0.31%
+JPEF	JPMorgan Equity Focus ETF	Equity	$1,470	0.77%	162,321	$67.63	0.13%
+BBAG	JPMorgan BetaBuilders U.S. Aggregate Bond ETF	Bond	$1,215	2.07%	212,483	$45.46	-0.04%
+JPLD	JPMorgan Limited Duration Bond ETF	N/A	$1,195	1.87%	114,705	$51.74	-0.02%
+JEMA	JPMorgan ActiveBuilders Emerging Markets Equity ETF	Equity	$1,154	9.48%	86,302	$40.96	0.39%
+BBEM	JPMorgan BetaBuilders Emerging Markets Equity ETF	Equity	$986	9.92%	41,433	$55.90	0.18%
+BBRE	JPMorgan BetaBuilders MSCI US REIT ETF	Real Estate	$908	1.11%	30,906	$94.18	0.11%
+AMJB	Alerian MLP Index ETNs due January 28, 2044	Equity	$758	4.64%	59,148	$30.88	-0.77%
+JPIB	JPMorgan International Bond Opportunities ETF	Bond	$728	3.09%	111,467	$47.94	-0.17%
+JCPI	JPMorgan Inflation Managed Bond ETF	Bond	$694	N/A	N/A	N/A	0.00%
+JSCP	JPMorgan Short Duration Core Plus ETF	Bond	$592	2.43%	96,052	$47.00	0.06%
+BBSC	JPMorgan BetaBuilders U.S. Small Cap Equity Fund	Equity	$543	-5.99%	24,913	$63.93	-0.51%
+JVAL	JPMorgan U.S. Value Factor ETF US Value Factor Fund	Equity	$541	-0.20%	160,886	$42.93	-0.12%
+JPSE	JPMorgan Diversified Return U.S. Small Cap Equity ETF	Equity	$459	-4.31%	50,717	$44.69	-0.58%
+JPRE	JPMorgan Realty Income ETF	Equity	$423	2.46%	27,973	$48.23	0.17%
+BBHY	JPMorgan BetaBuilders USD High Yield Corporate Bond ETF	Bond	$419	2.48%	264,871	$45.94	-0.04%
+JIVE	JPMorgan International Value ETF	Equity	$375	19.59%	62,932	$65.96	0.75%
+JPUS	JPMorgan Diversified Return Use Equity	Equity	$368	3.54%	19,622	$117.61	0.01%
+JPME	JPMorgan Diversified Return U.S. Mid Cap Equity ETF	Equity	$363	1.45%	25,163	$103.58	-0.21%
+JPEM	JPMorgan Diversified Return Emerging Markets Equity ETF	Equity	$336	8.82%	22,470	$56.22	0.73%
+JPIN	PMXF Diversified Return Intl Ex-North America Equity	Equity	$332	15.80%	24,998	$61.83	0.73%
+JMSI	JPMorgan Sustainable Municipal Income ETF	N/A	$267	-0.14%	39,546	$49.39	-0.08%
+JMHI	JPMorgan High Yield Municipal ETF	N/A	$204	0.06%	34,765	$49.61	-0.14%
+JIG	JPMorgan International Growth ETF	Equity	$119	9.97%	18,554	$68.68	0.91%
+JPMB	JPMorgan USD Emerging Markets Sovereign Bond ETF	Bond	$46	2.95%	73,019	$37.99	-0.21%
+BBCB	JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF	Bond	$38	1.85%	5,025	$44.79	0.07%
+BBSB	JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF	Bond	$32	1.95%	3,219	$98.75	0.01%

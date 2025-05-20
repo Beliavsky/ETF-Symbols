@@ -1,0 +1,51 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+USFR	WisdomTree Floating Rate Treasury Fund	Bond	$18,942	1.63%	6,585,314	$50.44	0.02%
+DGRW	WisdomTree US Quality Dividend Growth Fund	Equity	$15,276	1.46%	737,192	$81.75	0.26%
+DLN	WisdomTree U.S. LargeCap Dividend Fund	Equity	$4,851	3.81%	234,613	$80.26	0.16%
+DON	WisdomTree U.S. MidCap Dividend Fund	Equity	$3,691	-0.64%	184,602	$50.29	-0.16%
+DXJ	WisdomTree Japan Hedged Equity Fund	Equity	$3,370	0.99%	577,317	$111.38	-0.59%
+EPI	WisdomTree India Earnings Fund	Equity	$3,197	3.27%	1,171,687	$46.75	0.52%
+DEM	WisdomTree Emerging Markets High Dividend Fund	Equity	$2,933	9.98%	269,559	$44.10	0.14%
+IHDG	WisdomTree International Hedged Quality Dividend Growth Fund	Equity	$2,593	4.28%	476,446	$45.33	0.02%
+DES	WisdomTree U.S. SmallCap Dividend Fund	Equity	$1,866	-6.51%	145,873	$31.89	-0.13%
+HEDJ	WisdomTree Europe Hedged Equity Fund	Equity	$1,806	14.59%	226,290	$50.10	0.42%
+XSOE	WisdomTree Emerging Markets ex-State-Owned Enterprises Fund	Equity	$1,777	8.53%	255,362	$33.08	0.06%
+DGS	WisdomTree Emerging Markets SmallCap Dividend Fund	Equity	$1,591	8.09%	186,363	$52.80	0.25%
+DTD	WisdomTree U.S. Total Dividend Fund	Equity	$1,350	3.39%	45,989	$77.94	0.28%
+QGRW	WisdomTree U.S. Quality Growth Fund	Equity	$1,340	0.55%	482,098	$49.53	-0.04%
+UNIY	WisdomTree Voya Yield Enhanced USD Universal Bond Fund ETF	N/A	$1,223	1.95%	41,233	$48.14	-0.15%
+DHS	WisdomTree US High Dividend Fund	Equity	$1,218	3.15%	49,665	$95.41	0.22%
+NTSX	WisdomTree U.S. Efficient Core Fund	Multi-Asset	$1,167	2.64%	77,871	$47.79	-0.19%
+WTV	WisdomTree U.S. Value Fund	Equity	$1,102	2.18%	156,065	$85.08	-0.12%
+EPS	WisdomTree U.S. LargeCap Fund	Equity	$1,087	1.35%	52,960	$61.81	0.11%
+DLS	WisdomTree International SmallCap Dividend Fund	Equity	$960	14.89%	25,405	$72.03	0.83%
+AGGY	WisdomTree Yield Enhanced U.S. Aggregate Bond Fund	Bond	$812	1.57%	125,975	$42.94	-0.02%
+EZM	WisdomTree U.S. MidCap Fund	Equity	$773	-1.14%	35,075	$61.62	-0.26%
+IQDG	WisdomTree International Quality Dividend Growth Fund	Equity	$751	13.18%	110,229	$38.65	0.76%
+EES	WisdomTree U.S. SmallCap Fund	Equity	$588	-6.32%	47,290	$50.40	-0.51%
+DOL	WisdomTree International LargeCap Dividend Fund	Equity	$581	19.83%	26,163	$59.01	0.85%
+DDWM	WisdomTree Dynamic International Equity Fund	Equity	$556	14.39%	128,368	$39.21	0.77%
+DWM	WisdomTree International Equity Fund	Equity	$554	18.56%	20,967	$62.24	0.78%
+DNL	WisdomTree Global ex-U.S. Quality Dividend Growth Fund	Equity	$479	8.14%	70,235	$38.79	0.41%
+DDLS	WisdomTree Dynamic International SmallCap Equity Fund	Equity	$416	9.53%	48,098	$38.19	0.34%
+CXSE	WisdomTree China ex-State-Owned Enterprises Fund	Equity	$416	12.88%	38,992	$33.73	0.39%
+WCLD	WisdomTree Cloud Computing Fund	Equity	$407	-3.52%	216,325	$36.20	-1.20%
+DTH	WisdomTree International High Dividend Fund	Equity	$396	20.76%	54,803	$45.40	0.73%
+USMF	WisdomTree US Multifactor Fund	Equity	$394	3.95%	32,697	$51.46	0.14%
+AIVL	WisdomTree U.S. AI Enhanced Value Fund	Equity	$388	5.12%	3,332	$111.61	0.03%
+NTSI	WisdomTree International Efficient Core Fund	Multi-Asset	$385	14.28%	16,589	$40.02	0.35%
+DGRS	WisdomTree US Smallcap Quality Dividend Growth Fund	Equity	$370	-7.83%	48,868	$46.83	-0.47%
+DFJ	WisdomTree Japan SmallCap Dividend Fund	Equity	$280	10.60%	30,735	$83.09	0.50%
+WTPI	WisdomTree Equity Premium Income Fund	Equity	$236	-0.30%	82,187	$31.59	0.03%
+QHY	WisdomTree U.S. High Yield Corporate Bond Fund	N/A	$196	3.18%	18,398	$45.59	-0.04%
+WTAI	WisdomTree Artificial Intelligence and Innovation Fund	Equity	$192	0.91%	60,538	$22.20	-0.54%
+USDU	WisdomTree Bloomberg U.S. Dollar Bullish Fund	Currency	$174	-4.66%	306,389	$26.37	-0.49%
+HYZD	WisdomTree Interest Rate Hedged High Yield Bond Fund	Bond	$173	2.14%	50,813	$22.26	0.13%
+DFE	WisdomTree Europe SmallCap Dividend Fund	Equity	$165	21.06%	10,627	$68.24	0.84%
+BTCW	WisdomTree Bitcoin Fund	N/A	$161	13.45%	175,549	$111.92	1.47%
+WTMF	WisdomTree Managed Futures Strategy Fund	Alternatives	$159	-0.83%	29,752	$34.64	0.00%
+DIM	WisdomTree International MidCap Dividend Fund	Equity	$144	20.39%	5,690	$72.92	0.94%
+DGRE	WisdomTree Emerging Markets Quality Dividend Growth Fund	Equity	$142	7.27%	14,652	$26.74	0.53%
+GCC	WisdomTree Enhanced Commodity Strategy Fund	Commodity	$131	3.63%	56,921	$19.51	0.57%
+WCBR	WisdomTree Cybersecurity Fund	Equity	$129	7.50%	22,443	$30.38	-0.26%
+DEW	WisdomTree Global High Dividend Fund	Equity	$119	9.22%	9,805	$56.79	0.46%

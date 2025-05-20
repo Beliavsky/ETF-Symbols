@@ -1,0 +1,51 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+FBTC	Fidelity Wise Origin Bitcoin Fund	Currency	$20,557	12.97%	3,900,203	$92.16	1.41%
+FBND	Fidelity Total Bond ETF	Bond	$18,368	2.27%	2,148,843	$45.21	0.04%
+FTEC	Fidelity MSCI Information Technology Index ETF	Equity	$13,080	-0.84%	472,686	$183.07	-0.22%
+ONEQ	Fidelity Nasdaq Composite Index ETF	Equity	$7,609	-0.45%	486,240	$75.62	-0.12%
+FDVV	Fidelity High Dividend ETF	Equity	$5,163	2.67%	668,805	$50.85	0.00%
+FELC	Fidelity Enhanced Large Cap Core ETF	Equity	$4,352	1.05%	1,640,297	$33.18	0.15%
+FBCG	Fidelity Blue Chip Growth ETF	Equity	$4,048	-2.94%	696,157	$44.90	-0.11%
+FSEC	Fidelity Investment Grade Securitized ETF	Bond	$3,701	2.10%	917,335	$42.93	-0.14%
+FELG	Fidelity Enhanced Large Cap Growth ETF	Equity	$3,403	-0.79%	519,921	$35.04	-0.03%
+FMDE	Fidelity Enhanced Mid Cap ETF	Equity	$2,645	3.03%	466,744	$33.73	-0.30%
+FENI	Fidelity Enhanced International ETF	Equity	$2,619	17.58%	506,702	$32.14	1.16%
+FHLC	Fidelity MSCI Health Care Index ETF	Equity	$2,436	-2.39%	163,175	$63.56	0.82%
+FELV	Fidelity Enhanced Large Cap Value ETF	Equity	$2,273	3.03%	270,246	$31.25	0.29%
+FNCL	Fidelity MSCI Financials Index ETF	Equity	$2,264	6.17%	156,963	$72.61	0.03%
+FUTY	Fidelity MSCI Utilities Index ETF	Equity	$1,824	9.91%	199,141	$53.21	0.49%
+FESM	Fidelity Enhanced Small Cap ETF	Equity	$1,806	-4.25%	334,410	$30.81	-0.52%
+FDIS	Fidelity MSCI Consumer Discretionary Index ETF	Equity	$1,801	-3.71%	157,640	$93.61	-0.39%
+FSMD	Fidelity Small-Mid Multifactor ETF	Equity	$1,549	0.42%	686,559	$41.19	-0.41%
+FCOM	Fidelity MSCI Communication Services Index ETF	Equity	$1,482	2.83%	161,014	$60.22	-0.02%
+FENY	Fidelity MSCI Energy Index ETF	Equity	$1,410	-1.88%	1,517,919	$23.22	-1.28%
+FSTA	Fidelity MSCI Consumer Staples Index ETF	Equity	$1,374	5.97%	164,348	$52.09	0.25%
+FIDU	Fidelity MSCI Industrial Index ETF	Equity	$1,350	7.87%	84,719	$75.62	0.32%
+FDLO	Fidelity Low Volatility Factor ETF	Equity	$1,192	2.21%	157,256	$61.68	0.44%
+FREL	Fidelity MSCI Real Estate Index ETF	Real Estate	$1,062	2.42%	240,978	$27.42	0.07%
+FQAL	Fidelity Quality Factor ETF	Equity	$1,048	4.26%	57,692	$68.01	0.25%
+FETH	Fidelity Ethereum Fund ETF	Currency	$1,024	N/A	N/A	N/A	0.00%
+FVAL	Fidelity Value Factor ETF	Equity	$953	1.37%	131,157	$62.08	-0.06%
+FLDR	Fidelity Low Duration Bond Factor ETF	Bond	$859	1.78%	180,243	$50.04	0.02%
+FFLC	Fidelity Fundamental Large Cap Core ETF	Equity	$712	1.75%	153,394	$46.57	0.26%
+FFSM	Fidelity Fundamental Small-Mid Cap ETF	Equity	$671	-0.13%	361,241	$26.80	-0.37%
+FHEQ	Fidelity Hedged Equity ETF	Equity	$584	1.97%	128,527	$27.94	0.25%
+FDRR	Fidelity Dividend ETF for Rising Rates	Equity	$553	1.70%	24,916	$51.95	0.17%
+FDMO	Fidelity Momentum Factor ETF	Equity	$461	4.01%	137,651	$72.30	0.35%
+FMAT	Fidelity MSCI Materials Index ETF	Equity	$417	3.05%	76,125	$49.44	0.28%
+FFLG	Fidelity Fundamental Large Cap Growth ETF	Equity	$402	-1.12%	81,060	$24.79	0.24%
+FLDB	Fidelity Low Duration Bond ETF	N/A	$376	1.78%	1,922	$50.47	-0.02%
+FDHY	Fidelity Enhanced High Yield ETF	Bond	$368	2.34%	47,754	$48.29	-0.06%
+FCOR	Fidelity Corporate Bond ETF	Bond	$248	1.71%	32,233	$46.47	-0.04%
+FMAG	Fidelity Magellan ETF	Equity	$232	6.08%	70,765	$32.82	0.34%
+FLTB	Fidelity Limited Term Bond ETF	Bond	$227	2.20%	25,400	$50.00	-0.28%
+FCPI	Fidelity Stocks for Inflation ETF	Equity	$224	5.92%	27,205	$45.73	0.15%
+FLRG	Fidelity U.S. Multifactor ETF	Equity	$222	4.21%	35,735	$35.10	0.11%
+FIVA	Fidelity International Value Factor ETF	Equity	$200	19.22%	81,702	$28.60	0.78%
+FIGB	Fidelity Investment Grade Bond ETF	Bond	$197	2.34%	38,065	$42.74	0.42%
+FDEM	Fidelity Emerging Markets Multifactor ETF	Equity	$172	8.11%	68,757	$27.12	0.63%
+FDTX	Fidelity Disruptive Technology ETF	Equity	$172	1.44%	22,624	$35.86	-0.03%
+FDIG	Fidelity Crypto Industry and Digital Payments ETF	Equity	$170	-4.12%	55,040	$31.15	1.33%
+FMUN	Fidelity Systematic Municipal Bond Index ETF	N/A	$165	N/A	N/A	$48.76	-0.10%
+FDEV	Fidelity International Multifactor ETF	Equity	$146	15.66%	37,029	$31.42	0.64%
+FBCV	Fidelity Blue Chip Value ETF	Equity	$128	2.99%	13,270	$32.41	0.00%
