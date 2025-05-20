@@ -1,0 +1,101 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+TQQQ	ProShares UltraPro QQQ	Equity	$25,175	-9.20%	116,048,088	$71.64	0.27%
+NOBL	ProShares S&P 500 Dividend Aristocrats ETF	Equity	$11,706	2.85%	883,351	$101.92	-0.15%
+QLD	ProShares Ultra QQQ	Equity	$7,780	-1.85%	5,018,235	$106.21	0.14%
+SSO	ProShares Ultra S&P 500	Equity	$5,707	-1.42%	3,774,124	$91.03	0.24%
+UPRO	ProShares UltraPro S&P500	Equity	$3,983	-6.66%	7,262,724	$82.55	0.32%
+SQQQ	ProShares UltraPro Short QQQ	Equity	$3,203	-23.96%	108,483,400	$23.34	-0.17%
+BITO	ProShares Bitcoin ETF	Currency	$2,475	10.48%	7,268,547	$22.25	1.27%
+REGL	ProShares S&P MidCap 400 Dividend Aristocrats ETF	Equity	$1,794	3.01%	88,437	$82.56	0.12%
+SH	ProShares Short S&P500	Equity	$1,331	-1.50%	8,808,252	$41.45	-0.07%
+BITU	ProShares Ultra Bitcoin ETF	Currency	$1,156	9.50%	2,599,384	$51.83	2.67%
+USD	ProShares Ultra Semiconductors	Equity	$1,026	-14.32%	846,713	$55.76	0.00%
+UYG	ProShares Ultra Financials	Equity	$865	9.23%	25,279	$93.07	-0.10%
+ISPY	ProShares S&P 500 High Income ETF	Equity	$795	-1.28%	244,402	$40.95	0.22%
+UDOW	ProShares UltraPro Dow30	Equity	$679	-6.73%	2,777,592	$87.89	1.01%
+SMDV	ProShares Russell 2000 Dividend Growers ETF	Equity	$667	-2.09%	33,230	$65.87	-0.06%
+ROM	ProShares Ultra Technology	Equity	$655	-5.60%	87,370	$65.81	-0.27%
+SPXU	ProShares UltraPro Short S&P500	Equity	$609	-14.79%	17,202,834	$18.99	-0.31%
+PSQ	ProShares Short QQQ	Equity	$604	-3.44%	6,555,257	$35.80	-0.06%
+AGQ	ProShares Ultra Silver	Commodity	$581	15.38%	2,051,348	$38.85	0.73%
+UGL	ProShares Ultra Gold	Commodity	$461	43.25%	503,078	$133.91	2.61%
+UVXY	ProShares Ultra VIX Short-Term Futures ETF	Volatility	$452	5.36%	19,966,532	$21.83	1.49%
+SDS	ProShares UltraShort S&P500	Equity	$441	-6.99%	14,842,137	$18.09	-0.11%
+CSM	Proshares Large Cap Core Plus	Equity	$440	3.46%	17,503	$68.25	0.01%
+DDM	ProShares Ultra Dow30	Equity	$407	-2.06%	311,779	$93.09	0.72%
+UCO	ProShares Ultra Bloomberg Crude Oil	Commodity	$391	-22.25%	2,166,284	$21.38	0.38%
+SVXY	ProShares Short VIX Short-Term Futures ETF	Volatility	$347	-17.62%	2,765,238	$41.24	-0.58%
+KOLD	ProShares UltraShort Bloomberg Natural Gas	Commodity	$347	-34.65%	8,824,059	$27.93	12.58%
+URTY	ProShares UltraPro Russell2000	Equity	$330	-25.98%	1,517,473	$36.31	-1.57%
+UWM	ProShares Ultra Russell2000	Equity	$326	-14.96%	450,262	$35.51	-0.89%
+QID	ProShares UltraShort QQQ	Equity	$303	-12.08%	7,936,484	$28.44	-0.11%
+TBT	ProShares UltraShort 20+ Year Treasury	Bond	$292	2.27%	565,730	$37.18	0.65%
+IGHG	ProShares Investment Grade-Interest Rate Hedged	Bond	$251	1.16%	21,598	$77.70	0.26%
+BOIL	ProShares Ultra Bloomberg Natural Gas	Commodity	$246	-12.43%	2,069,587	$48.88	-12.65%
+TDV	ProShares S&P Technology Dividend Aristocrats ETF	Equity	$245	5.08%	10,438	$79.07	-0.42%
+SDOW	ProShares UltraPro Short Dow30	Equity	$214	-8.89%	3,824,521	$45.60	-0.98%
+SPXT	ProShares S&P 500 Ex-Technology ETF	Equity	$208	3.04%	9,646	$94.03	0.18%
+RWM	ProShares Short Russell2000	Equity	$182	5.29%	9,158,213	$19.60	0.41%
+ETHT	ProShares Ultra Ether ETF	Currency	$179	-61.68%	3,196,765	$8.35	-6.18%
+HYHG	ProShares High Yield-Interest Rate Hedged ETF	Bond	$166	0.59%	16,795	$64.42	-0.15%
+UBT	ProShares Ultra 20+ Year Treasury	Bond	$155	-2.75%	325,263	$16.31	-0.55%
+TOLZ	ProShares DJ Brookfield Global Infrastructure ETF	Equity	$151	11.09%	42,757	$54.33	0.69%
+IQQQ	ProShares Nasdaq-100 High Income ETF	Equity	$144	-1.09%	55,670	$38.86	0.15%
+MVV	ProShares Ultra MidCap400	Equity	$141	-7.01%	24,816	$63.07	-0.66%
+DOG	ProShares Short Dow30	Equity	$131	-0.09%	2,132,165	$26.34	-0.34%
+SCO	ProShares UltraShort Bloomberg Crude Oil	Commodity	$114	17.08%	1,409,324	$19.81	-0.30%
+SJB	ProShares Short High Yield	Bond	$113	-0.66%	538,071	$15.95	0.06%
+GLL	ProShares UltraShort Gold	Commodity	$86	-33.90%	3,051,487	$11.62	-2.68%
+ONLN	ProShares Online Retail ETF	Equity	$76	8.43%	14,851	$48.40	0.17%
+TBF	ProShares Short 20+ Year Treasury	Bond	$76	2.02%	169,678	$24.92	0.65%
+SRTY	ProShares UltraPro Short Russell2000	Equity	$74	3.53%	3,560,240	$19.26	1.42%
+BITI	ProShares Short Bitcoin ETF	Currency	$74	-15.98%	1,575,151	$20.06	-1.43%
+DIG	ProShares Ultra Energy	Equity	$71	-7.94%	58,100	$32.98	-2.66%
+EFAD	ProShares MSCI EAFE Dividend Growers ETF	Equity	$69	12.80%	5,043	$41.71	0.51%
+YCL	ProShares Ultra Yen	Currency	$65	13.96%	130,146	$23.19	1.18%
+EETH	ProShares Ether ETF	Currency	$65	-26.86%	92,402	$46.69	-3.07%
+RXL	ProShares Ultra Health Care	Equity	$65	-7.63%	14,114	$40.52	1.83%
+SPXE	ProShares S&P 500 Ex-Energy ETF	Equity	$64	1.84%	2,400	$64.26	0.19%
+URE	ProShares Ultra Real Estate	Real Estate	$63	4.12%	3,221	$64.83	0.37%
+OILK	ProShares K-1 Free Crude Oil ETF of Benef Interest	Commodity	$62	-9.94%	23,933	$39.02	0.23%
+SBIT	ProShares UltraShort Bitcoin ETF	Currency	$62	-37.85%	7,196,321	$7.34	-2.65%
+PAWZ	ProShares Pet Care ETF	Equity	$61	7.05%	3,983	$58.20	1.02%
+SPXN	ProShares S&P 500 Ex-Financials ETF	Equity	$60	0.92%	1,610	$63.36	0.11%
+DXD	ProShares UltraShort Dow30	Equity	$56	-3.50%	1,164,422	$25.81	-0.58%
+ITWO	ProShares Russell 2000 High Income ETF	Equity	$46	N/A	N/A	N/A	0.00%
+BIB	ProShares Ultra Nasdaq Biotechnology	Equity	$44	-13.03%	10,190	$43.95	2.30%
+TWM	ProShares UltraShort Russell2000	Equity	$39	5.94%	341,408	$46.69	0.95%
+EUO	ProShares UltraShort Euro	Currency	$35	-14.03%	34,546	$30.02	-1.31%
+UYM	ProShares Ultra Materials	Equity	$34	3.57%	8,105	$23.50	0.69%
+SPXV	ProShares S&P 500 Ex-Health Care ETF	Equity	$30	2.28%	1,271	$64.94	0.02%
+ZSL	ProShares UltraShort Silver	Commodity	$30	-23.02%	396,449	$32.33	-0.65%
+SAA	ProShares Ultra SmallCap600	Equity	$29	-16.65%	9,043	$21.61	-0.96%
+EET	ProShares Ultra MSCI Emerging Markets	Equity	$29	17.32%	13,165	$58.92	0.46%
+UMDD	ProShares UltraPro MidCap400	Equity	$29	-14.86%	16,570	$22.55	-1.44%
+TTT	ProShares UltraPro Short 20+ Year Treasury	Bond	$27	-0.39%	7,508	$79.11	0.91%
+YCS	ProShares UltraShort Yen	Currency	$25	-11.27%	15,448	$41.42	-1.50%
+UST	ProShares Ultra 7-10 Year Treasury	Bond	$25	2.74%	40,430	$41.89	-0.26%
+HDG	ProShares Hedge Replication ETF	Alternatives	$25	0.75%	1,133	$49.45	-0.06%
+RINF	ProShares Inflation Expectations ETF	Alternatives	$23	1.73%	10,667	$33.26	0.45%
+UXI	ProShares Ultra Industrials	Equity	$23	14.15%	3,732	$41.40	0.80%
+UJB	ProShares Ultra High Yield	Bond	$22	3.71%	12,895	$74.45	-0.04%
+SRS	ProShares UltraShort Real Estate	Real Estate	$22	-8.42%	39,424	$47.12	-0.38%
+VIXM	ProShares VIX Mid-Term Futures ETF	Volatility	$20	13.00%	274,433	$16.34	0.93%
+ETHD	ProShares UltraShort Ether ETF	Currency	$18	-13.64%	329,944	$16.62	6.06%
+UPW	ProShares Ultra Utilities	Equity	$17	16.13%	10,384	$82.70	0.87%
+XPP	ProShares Ultra FTSE China 50	Equity	$16	29.03%	21,730	$23.62	1.24%
+EPV	ProShares UltraShort FTSE Europe	Equity	$15	-32.70%	58,179	$27.77	-2.25%
+BETH	ProShares Bitcoin & Ether Market Cap Weight ETF	Currency	$15	4.55%	2,310	$82.88	0.70%
+UCC	ProShares Ultra Consumer Discretionary	Equity	$14	-11.64%	8,343	$45.54	-0.44%
+EFO	ProShares Ultra MSCI EAFE	Equity	$14	30.66%	6,052	$53.44	2.26%
+EFZ	ProShares Short MSCI EAFE	Equity	$14	-13.40%	27,286	$14.35	-0.83%
+PST	ProShares UltraShort 7-10 Year Treasury	Bond	$14	-1.09%	19,770	$23.54	-0.42%
+DUG	ProShares UltraShort Energy	Equity	$14	-5.47%	43,048	$38.67	2.68%
+PEX	ProShares Global Listed Private Equity ETF	Equity	$14	0.95%	3,848	$27.64	0.62%
+EUM	ProShares Short MSCI Emerging Markets	Equity	$13	-9.24%	16,998	$24.26	0.08%
+TBX	ProShares Short 7-10 Year Treasury	Bond	$12	-0.81%	7,994	$28.63	-0.38%
+SSG	Proshares Ultrashort Semiconductors	Equity	$12	-32.53%	115,225	$17.88	-0.17%
+SKF	ProShares UltraShort Financials	Equity	$12	-15.92%	35,897	$29.26	0.03%
+REK	ProShares Short Real Estate	Real Estate	$11	-2.76%	16,922	$16.79	-0.18%
+QQQA	ProShares Nasdaq-100 Dorsey Wright Momentum ETF	Equity	$11	-4.44%	3,210	$43.54	0.28%
+EQRR	ProShares Equities for Rising Rates ETF	Equity	$11	4.89%	817	$59.17	0.08%
