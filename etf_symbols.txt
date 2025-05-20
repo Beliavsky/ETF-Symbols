@@ -1,0 +1,22 @@
+GSY Invesco Ultra Short Duration ETF
+MINT PIMCO Enhanced Short Maturity Active ETF
+BOXX Alpha Architect 1-3 Month Box
+IPAC iShares Core MSCI Pacific
+AIA iShares Asia 50
+EEMA iShares MSCI Emerging Markets Asia
+GMF SPDR® S&P® Emerging Asia Pacific
+FLIN Franklin FTSE India
+SPDW SPDR® Portfolio Developed World ex-US
+JAAA Janus Henderson AAA CLO
+PAAA PGIM AAA CLO
+MTUM iShares MSCI USA Momentum Factor
+JMOM JPMorgan U.S. Momentum Factor
+XMMO Invesco S&P MidCap Momentum
+IMTM iShares MSCI Intl Momentum Factor
+SMLF iShares U.S. Small‑Cap Equity Factor
+XSMO Invesco S&P SmallCap Momentum
+JMOM JPMorgan U.S. Momentum Factor
+VFMO Vanguard U.S. Momentum Factor
+
+
+
