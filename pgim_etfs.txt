@@ -1,0 +1,5 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+PULS	PGIM Ultra Short Bond ETF	Bond	$11,189	1.76%	2,669,603	$49.64	0.02%
+PAAA	PGIM AAA CLO ETF	N/A	$3,275	1.80%	1,109,625	$51.26	0.00%
+PTRB	PGIM Total Return Bond ETF	Bond	$442	1.93%	66,625	$41.11	0.00%
+PHYL	PGIM Active High Yield Bond ETF	Bond	$274	2.76%	77,617	$34.84	-0.11%
