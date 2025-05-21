@@ -1,0 +1,34 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+SCHD	Schwab US Dividend Equity ETF	Equity	$69,043	-2.21%	18,629,498	$26.48	-0.38%
+SCHX	Schwab U.S. Large-Cap ETF	Equity	$54,171	1.54%	13,665,980	$23.47	-0.38%
+SCHF	Schwab International Equity ETF	Equity	$46,343	16.00%	11,922,655	$21.46	0.47%
+SCHG	Schwab U.S. Large-Cap Growth ETF	Equity	$41,341	-0.80%	13,685,210	$27.62	-0.43%
+SCHB	Schwab U.S. Broad Market ETF	Equity	$33,036	1.03%	5,862,973	$22.87	-0.35%
+FNDX	Schwab Fundamental U.S. Large Company ETF	Equity	$18,027	1.58%	3,695,654	$23.95	-0.25%
+SCHA	Schwab U.S. Small-Cap ETF	Equity	$16,922	-4.51%	3,986,143	$24.64	-0.12%
+FNDF	Schwab Fundamental International Equity ETF	Equity	$15,663	16.80%	1,440,389	$38.79	0.65%
+SCHP	Schwab U.S. TIPS ETF	Bond	$12,784	3.03%	3,402,886	$26.38	-0.23%
+SCHV	Schwab U.S. Large-Cap Value ETF	Equity	$12,327	4.37%	1,838,260	$27.07	-0.29%
+SCHM	Schwab US Mid-Cap ETF	Equity	$11,516	-0.05%	1,503,609	$27.62	-0.29%
+SCHO	Schwab Short-Term U.S. Treasury ETF	Bond	$10,861	2.25%	4,352,303	$24.26	-0.04%
+SCHR	Schwab Intermediate-Term U.S. Treasury ETF	Bond	$10,545	2.79%	2,319,716	$24.65	-0.04%
+SCHE	Schwab Emerging Markets Equity ETF	Equity	$9,894	9.76%	1,310,030	$29.23	-0.17%
+SCHZ	Schwab U.S. Aggregate Bond ETF	Bond	$8,504	1.90%	1,589,040	$22.82	-0.22%
+SCHI	Schwab 5-10 Year Corporate Bond ETF	Bond	$8,414	2.68%	1,255,983	$22.28	-0.18%
+FNDA	Schwab Fundamental U.S. Small Company ETF	Equity	$8,261	-4.92%	1,878,959	$28.19	-0.39%
+SCHH	Schwab US REIT ETF	Real Estate	$7,994	1.93%	7,312,403	$21.37	-0.56%
+FNDE	Schwab Fundamental Emerging Markets Equity ETF	Equity	$6,748	10.53%	872,214	$32.11	0.38%
+SMBS	Schwab Mortgage-Backed Securities ETF	N/A	$5,058	1.40%	3,218,636	$24.92	-0.84%
+SCHC	Schwab International Small-Cap Equity ETF	Equity	$4,254	15.58%	561,759	$39.68	0.35%
+SCHK	Schwab 1000 Index ETF	Equity	$4,157	1.31%	899,156	$28.60	-0.42%
+FNDC	Schwab Fundamental International Small Equity ETF	Equity	$2,795	16.55%	534,644	$39.79	0.20%
+SCMB	Schwab Municipal Bond ETF	N/A	$1,965	-1.38%	1,866,768	$25.08	-0.28%
+SCHY	Schwab International Dividend Equity ETF	Equity	$1,077	17.89%	359,492	$27.11	0.74%
+SCYB	Schwab High Yield Bond ETF	Bond	$1,075	2.38%	508,459	$26.15	-0.08%
+FNDB	Schwab Fundamental U.S. Broad Market ETF	Equity	$914	1.06%	129,900	$23.41	-0.21%
+SCHQ	Schwab Long-Term U.S. Treasury ETF	Bond	$837	-0.15%	522,568	$30.94	-0.64%
+SCHJ	Schwab 1-5 Year Corporate Bond ETF	Bond	$522	2.47%	104,527	$24.61	0.00%
+SCCR	Schwab Core Bond ETF	N/A	$181	N/A	120,790	$25.14	-0.04%
+STCE	Schwab Crypto Thematic ETF	Equity	$117	-0.13%	41,559	$44.72	-0.84%
+SCUS	Schwab Ultra-Short Income ETF	N/A	$88	1.51%	104,887	$25.14	0.00%
+SAEF	Schwab Ariel ESG ETF	Equity	$23	-7.64%	4,527	$24.90	-1.07%
