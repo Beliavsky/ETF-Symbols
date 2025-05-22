@@ -1,0 +1,13 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+USMC	Principal U.S. Mega-Cap ETF	Equity	$2,867	-1.24%	131,743	$59.15	-1.61%
+PREF	Principal Spectrum Preferred Secs Active ETF	Preferred Stock	$1,175	1.96%	273,032	$18.68	-0.11%
+PIEQ	Principal International Equity ETF	Equity	$763	N/A	N/A	N/A	0.00%
+PSC	Principal U.S. Small-Cap ETF	Equity	$689	-1.26%	77,941	$50.51	-2.49%
+YLD	Principal Active High Yield ETF	Multi-Asset	$296	0.78%	135,629	$18.87	-0.79%
+PY	Principal Value ETF	Equity	$292	-3.18%	15,475	$47.77	-2.09%
+BCHP	Principal Focused Blue Chip ETF	Equity	$123	-0.44%	2,108	$18.04	-1.15%
+IG	Principal Investment Grade Corporate Active ETF	Bond	$101	0.85%	20,583	$20.16	-0.84%
+PQDI	Principal Spectrum Tax-Advantaged Dividend Active ETF	Multi-Asset	$57	1.75%	21,143	$19.00	-0.42%
+PSET	Principal Quality ETF	Equity	$50	-2.05%	7,537	$69.98	-1.81%
+LCAP	Principal Capital Appreciation Select ETF	Equity	$21	N/A	N/A	N/A	0.00%
+BYRE	Principal Real Estate Active Opportunities ETF	Equity	$15	2.64%	2,183	$25.03	-2.26%

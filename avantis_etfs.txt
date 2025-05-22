@@ -1,0 +1,31 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+AVUV	Avantis U.S. Small Cap Value ETF	Equity	$15,606	-9.05%	1,371,030	$87.47	-2.81%
+AVEM	Avantis Emerging Markets Equity ETF	Equity	$9,710	9.87%	976,467	$64.59	-0.08%
+AVDV	Avantis International Small Cap Value ETF	Equity	$8,825	16.33%	573,711	$75.71	-0.30%
+AVUS	Avantis U.S. Equity ETF	Equity	$8,338	-1.22%	499,710	$95.45	-1.89%
+AVLV	Avantis U.S. Large Cap Value ETF	Equity	$7,297	-1.69%	882,819	$65.38	-1.92%
+AVDE	Avantis International Equity ETF	Equity	$6,951	17.19%	496,602	$71.92	-0.46%
+AVSC	Avantis U.S Small Cap Equity ETF	Equity	$1,535	-9.78%	174,684	$48.91	-3.03%
+AVIG	Avantis Core Fixed Income ETF	Bond	$1,065	1.37%	129,416	$40.53	-0.69%
+AVIV	Avantis International Large Cap Value ETF	Equity	$729	17.28%	44,967	$60.87	-0.39%
+AVES	Avantis Emerging Markets Value ETF	Equity	$667	10.02%	58,719	$50.83	0.26%
+AVSF	Avantis Short-Term Fixed Income ETF	Bond	$616	2.29%	39,589	$46.52	-0.28%
+AVLC	Avantis U.S. Large Cap Equity ETF	Equity	$606	-0.49%	67,348	$67.04	-1.77%
+AVRE	Avantis Real Estate ETF	Real Estate	$578	3.85%	51,622	$43.26	-1.75%
+AVGE	Avantis All Equity Markets ETF	Equity	$536	2.25%	37,762	$74.00	-1.50%
+AVSU	Avantis Responsible U.S. Equity ETF	Equity	$367	-1.47%	19,538	$64.96	-1.90%
+AVNM	Avantis All International Markets Equity ETF	Equity	$291	14.92%	62,803	$62.94	-0.29%
+AVMV	Avantis U.S. Mid Cap Value ETF	Equity	$184	-3.44%	27,486	$62.81	-2.48%
+AVSD	Avantis Responsible International Equity ETF	Equity	$181	17.74%	8,637	$65.56	-0.50%
+AVMC	Avantis U.S. Mid Cap Equity ETF	Equity	$163	-1.62%	23,538	$63.75	-2.37%
+AVGV	Avantis All Equity Markets Value ETF	Equity	$150	3.03%	21,408	$62.83	-1.35%
+AVMU	Avantis Core Municipal Fixed Income ETF	Bond	$148	-2.49%	34,224	$44.46	-0.69%
+AVUQ	Avantis U.S. Quality ETF Shs Avantis US Growth Equity ETF	Equity	$131	N/A	N/A	$50.21	-1.12%
+AVSE	Avantis Responsible Emerging Markets Equity ETF	Equity	$121	9.91%	11,792	$55.43	0.13%
+AVXC	Avantis Emerging Markets ex-China Equity ETF	Equity	$105	7.41%	22,365	$53.22	0.04%
+AVDS	Avantis International Small Cap Equity ETF	Equity	$92	13.51%	19,021	$58.83	-0.63%
+AVEE	Avantis Emerging Markets Small Cap Equity ETF	Equity	$37	6.62%	6,744	$56.83	0.14%
+AVNV	Avantis All International Markets Value ETF	Equity	$34	14.80%	12,456	$63.47	-0.17%
+AVMA	Avantis Moderate Allocation ETF	Multi-Asset	$29	2.33%	3,603	$59.50	-1.10%
+AVGB	Avantis Credit ETF	N/A	$10	N/A	N/A	$50.28	-0.36%
+AVIE	Avantis Inflation Focused Equity ETF	Equity	$5	0.21%	419	$59.99	-1.49%

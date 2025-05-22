@@ -1,0 +1,29 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+GUNR	FlexShares Morningstar Global Upstream Natural Resources Index Fund	Equity	$4,683	8.04%	630,392	$39.02	-0.43%
+TDTT	FlexShares iBoxx 3-Year Target Duration TIPS Index Fund	Bond	$2,551	3.63%	508,297	$24.07	-0.17%
+NFRA	FlexShares STOXX Global Broad Infrastructure Index Fund	Equity	$2,490	12.39%	167,356	$60.79	-0.86%
+QDF	FlexShares Quality Dividend Index Fund	Equity	$1,816	-0.99%	45,383	$69.66	-1.61%
+TILT	FlexShares Morningstar US Market Factor Tilt Index Fund	Equity	$1,688	-1.54%	11,173	$212.17	-1.86%
+HYGV	FlexShares High Yield Value-Scored Bond Index Fund	Bond	$1,280	1.14%	245,929	$40.11	-0.69%
+RAVI	FlexShares Ultra-Short Income Fund	Bond	$1,257	1.71%	80,057	$75.29	-0.04%
+TDTF	FlexShares iBoxx 5-Year Target Duration TIPS Index Fund	Bond	$799	3.55%	191,214	$23.72	-0.42%
+IQDF	FlexShares International Quality Dividend Index Fund	Equity	$707	15.31%	76,394	$26.74	-0.26%
+SKOR	FlexShares Credit-Scored US Corporate Bond Index Fund	Bond	$517	2.06%	64,567	$47.90	-0.44%
+TLTD	FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund	Equity	$500	17.30%	14,797	$80.57	-0.42%
+QLC	FlexShares US Quality Large Cap Index Fund	Equity	$471	0.99%	46,965	$66.93	-1.46%
+QDEF	FlexShares Quality Dividend Defensive Index Fund	Equity	$419	1.65%	13,417	$71.17	-1.45%
+GQRE	FlexShares Global Quality Real Estate Index Fund	Real Estate	$417	2.08%	21,889	$58.05	-1.96%
+TLTE	FlexShares Morningstar Emerging Markets Factor Tilt Index Fund	Equity	$257	8.85%	13,325	$55.46	-0.04%
+QLV	FlexShares US Quality Low Volatility Index Fund	Equity	$135	2.22%	7,614	$66.47	-1.17%
+BNDC	FlexShares Core Select Bond Fund Core Select Bond Fund	Bond	$133	1.35%	28,160	$21.73	-0.69%
+ESG	FlexShares STOXX US ESG Select Index Fund	Equity	$120	1.37%	3,348	$139.40	-1.51%
+ESGG	FlexShares STOXX Global ESG Select Index Fund	Equity	$86	6.28%	2,092	$178.24	-1.04%
+MBSD	FlexShares Disciplined Duration MBS Index Fund	Bond	$84	1.53%	20,322	$20.29	-0.54%
+IQDY	FlexShares International Quality Dividend Dynamic Index Fund	Equity	$69	14.42%	8,792	$31.51	-0.38%
+FEUS	FlexShares ESG & Climate US Large Cap Core Index Fund	Equity	$67	-1.45%	3,144	$64.59	-1.39%
+FEDM	FlexShares ESG & Climate Developed Markets ex-US Core Index Fund	Equity	$56	14.08%	2,487	$54.67	-0.40%
+QLVD	FlexShares Developed Markets ex-US Quality Low Volatility Index Fund	Equity	$56	18.05%	8,540	$31.08	0.29%
+FEIG	FlexShares ESG & Climate Investment Grade Corporate Core Index Fund	Bond	$44	0.57%	3,771	$40.01	-0.84%
+LKOR	FlexShares Credit-Scored US Long Corporate Bond Index Fund	Bond	$35	-2.34%	3,727	$40.17	-1.66%
+QLVE	FlexShares Emerging Markets Quality Low Volatility Index Fund	Equity	$13	7.60%	2,432	$26.73	0.00%
+ASET	FlexShares Real Assets Allocation Index Fund	Multi-Asset	$7	7.56%	1,283	$31.96	-1.33%
