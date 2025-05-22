@@ -1,0 +1,26 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+MTBA	Simplify MBS ETF	N/A	$1,569	1.44%	272,725	$49.41	-0.58%
+CTA	Simplify Managed Futures Strategy ETF	Alternatives	$1,081	-0.61%	642,391	$27.61	0.07%
+SVOL	Simplify Volatility Premium ETF	Volatility	$966	-6.30%	1,213,233	$18.42	-4.95%
+TUA	Simplify Short Term Treasury Futures Strategy ETF	N/A	$697	3.00%	1,132,725	$21.63	-0.32%
+HEQT	Simplify Hedged Equity ETF	Equity	$366	-0.55%	174,752	$29.24	-0.58%
+BUCK	Simplify Treasury Option Income ETF	N/A	$326	-2.41%	376,632	$23.37	-0.38%
+AGGH	Simplify Aggregate Bond ETF	Bond	$311	-1.35%	154,690	$19.85	-0.60%
+HIGH	Simplify Enhanced Income ETF	N/A	$183	8.42%	129,797	$24.47	-0.81%
+CDX	Simplify High Yield ETF	Bond	$177	7.91%	130,686	$23.13	-0.34%
+TYA	Simplify Intermediate Term Treasury Futures Strategy ETF	Bond	$150	3.88%	221,719	$12.61	-1.56%
+PFIX	Simplify Interest Rate Hedge ETF	Alternatives	$150	21.78%	158,471	$63.13	6.08%
+RFIX	Simplify Bond Bull ETF	N/A	$140	-10.84%	93,265	$46.78	-3.29%
+PINK	Simplify Health Care ETF	Equity	$133	-4.76%	41,711	$28.20	-2.56%
+SPUC	Simplify US Equity PLUS Upside Convexity ETF	Equity	$112	0.81%	13,505	$41.18	-2.37%
+CRDT	Simplify Opportunistic Income ETF	Bond	$110	-0.06%	44,630	$24.54	-0.81%
+QIS	Simplify Multi-QIS Alternative ETF	N/A	$103	-5.81%	8,595	$22.79	-2.77%
+SPD	Simplify US Equity PLUS Downside Convexity ETF	Equity	$86	10.33%	62,837	$36.73	-0.73%
+NMB	Simplify National Muni Bond ETF	N/A	$86	4.18%	7,181	$24.98	-1.42%
+SPYC	Simplify US Equity PLUS Convexity ETF	Equity	$82	5.33%	17,106	$39.33	-1.21%
+SURI	Simplify Propel Opportunities ETF	Multi-Asset	$64	-1.57%	2,813	$14.52	-1.36%
+MAXI	Simplify Bitcoin Strategy PLUS Income ETF	N/A	$56	29.39%	48,794	$33.73	1.69%
+SPBC	Simplify US Equity PLUS Bitcoin Strategy ETF	Multi-Asset	$42	1.67%	15,511	$39.19	-1.19%
+XV	Simplify Target 15 Distribution ETF	Multi-Asset	$40	N/A	N/A	$25.94	-0.92%
+HARD	Simplify Commodities Strategy No K-1 ETF	N/A	$34	6.76%	51,606	$28.77	0.07%
+TESL	Simplify Volt TSLA Revolution ETF	Equity	$31	5.26%	36,667	$24.90	-2.51%

@@ -1,0 +1,13 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+BOXX	Alpha Architect 1-3 Month Box ETF	Bond	$6,288	1.70%	930,635	$112.16	0.02%
+CAOS	Alpha Architect Tail Risk ETF	Multi-Asset	$384	1.13%	33,762	$88.53	0.06%
+QVAL	Alpha Architect U.S. Quantitative Value ETF	Equity	$379	-1.07%	29,337	$44.06	-2.05%
+QMOM	Alpha Architect U.S. Quantitative Momentum ETF	Equity	$308	-5.22%	47,770	$60.78	-1.97%
+IVAL	Alpha Architect International Quantitative Value ETF	Equity	$141	14.40%	19,070	$27.41	-0.40%
+IMOM	Alpha Architect International Quantitative Momentum ETF	Equity	$94	16.08%	24,010	$30.82	-0.23%
+HIDE	Alpha Architect High Inflation & Deflation ETF	Multi-Asset	$47	0.74%	15,862	$22.42	-0.49%
+GFGF	Guru Favorite Stocks ETF	Equity	$34	0.49%	652	$31.55	-1.16%
+NEWZ	StockSnips AI-Powered Sentiment US All Cap ETF	Equity	$25	-1.85%	1,995	$27.83	-1.42%
+AAVM	Alpha Architect Global Factor Equity ETF	Equity	$19	1.69%	3,603	$25.84	-1.00%
+ABCS	Alpha Blue Capital US Small-Mid Cap Dynamic ETF	Equity	$10	-2.44%	4,637	$27.83	-2.42%
+BOXA	Alpha Architect Aggregate Bond ETF	N/A	$8	N/A	N/A	N/A	0.00%
