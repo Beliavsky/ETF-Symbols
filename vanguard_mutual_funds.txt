@@ -1,0 +1,13 @@
+Vanguard Capital Opportunity VHCOX
+Vanguard Dividend Growth VDIGX
+Vanguard High-Yield Tax-Exempt VWALX
+Vanguard Intermediate-Term Tax-Exempt VWIUX
+Vanguard Long-Term Tax-Exempt VWLUX
+Vanguard Limited-Term Tax-Exempt VMLUX
+Vanguard Primecap Core VPCCX
+Vanguard Primecap VPMCX
+Vanguard Strategic Equity VSEQX
+Vanguard Tax-Managed Capital Appreciation VTCLX
+Vanguard Ultra Short-Term Tax-Exempt VWSUX
+Vanguard Wellesley Income VWIAX
+Vanguard Wellington VWELX
