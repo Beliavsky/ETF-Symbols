@@ -1,0 +1,95 @@
+Symbol ETF_Name Asset_Class Total_Assets_($MM) YTD_Price_Change Avg_Daily_Volume Previous_Closing_Price 1-Day_Change
+PDBC	Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF	$4,541,370	4.23%	5,156,835	$13.54	0.00%	
+FTGC	First Trust Global Tactical Commodity Strategy Fund	$2,493,300	7.61%	568,774	$25.61	0.31%	
+BCI	abrdn Bloomberg All Commodity Strategy K-1 Free ETF	$1,607,580	8.66%	688,442	$21.46	0.33%	
+DBC	Invesco DB Commodity Index Tracking Fund	$1,260,380	5.71%	1,457,725	$22.60	-0.22%	
+GSG	iShares S&P GSCI Commodity-Indexed Trust	$967,655	5.60%	654,348	$22.99	-0.22%	
+COMT	iShares U.S. ETF Trust iShares GSCI Commodity Dynamic Roll Strategy ETF	$634,742	6.20%	214,871	$26.88	-0.52%	
+DJP	iPath Bloomberg Commodity Index Total Return ETN	$593,811	9.91%	64,257	$35.27	0.34%	
+HGER	Harbor Commodity All-Weather Strategy ETF	$399,375	13.08%	179,080	$25.03	-0.24%	
+CMDT	PIMCO Commodity Strategy Active Exchange-Traded Fund	$392,127	6.37%	97,554	$26.65	-0.19%	
+USOI	ETRACS Crude Oil Shares Covered Call ETN	$297,524	-14.14%	52,885	$56.22	-0.55%	
+BCD	abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF	$285,883	9.06%	72,385	$34.17	0.26%	
+CMDY	iShares Bloomberg Roll Select Commodity Strategy ETF	$269,743	9.21%	55,737	$51.96	0.17%	
+USCI	United States Commodity Index Fund	$242,499	13.85%	21,572	$75.12	0.39%	
+FGDL	Franklin Responsibly Sourced Gold ETF	$238,150	29.10%	109,685	$45.30	-1.18%	
+NBCM	Neuberger Berman Commodity Strategy ETF	$227,403	9.18%	39,337	$22.84	0.13%	
+COM	Direxion Auspice Broad Commodity Strategy ETF	$219,527	1.42%	52,215	$28.48	-0.04%	
+KRBN	KraneShares Global Carbon Strategy ETF	$166,306	4.09%	43,177	$30.51	-0.84%	
+GCC	WisdomTree Enhanced Commodity Strategy Fund	$139,125	7.73%	46,875	$20.28	0.45%	
+SDCI	USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund	$113,829	14.06%	152,189	$22.15	0.59%	
+FAAR	First Trust Alternative Absolute Return Strategy ETF	$101,005	2.10%	18,608	$28.45	-0.14%	
+KCCA	KraneShares California Carbon Allowance Strategy ETF	$98,847	-25.18%	43,658	$14.68	0.20%	
+COMB	GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF	$79,994	8.66%	50,105	$21.68	0.42%	
+BDRY	Breakwave Dry Bulk Shipping ETF	$68,240	-6.58%	154,892	$5.68	-3.24%	
+CCRV	iShares Commodity Curve Carry Strategy ETF	$41,485	3.35%	13,383	$20.68	-0.34%	
+PIT	VanEck Commodity Strategy ETF	$36,626	10.40%	1,595	$52.26	-0.02%
+UCIB	ETRACS CMCI Total Return ETN Series B	$25,606	4.93%	1,160	$27.02	0.37%	
+DCMT	DoubleLine Commodity Strategy ETF	$23,637	5.31%	6,266	$26.86	-0.26%	
+BCIM	abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF	$20,794	4.23%	8,346	$20.87	0.92%	
+GRN	iPath Series B Carbon Exchange-Traded Notes	$15,951	3.80%	3,700	$29.51	-0.77%	
+HCOM	Hartford Schroders Commodity Strategy ETF	$10,048	N/A	N/A	$15.48	0.00%	
+IAUI	NEOS Gold High Income ETF	$9,626	N/A	N/A	N/A	0.00%	
+KEUA	KraneShares European Carbon Allowance Strategy ETF	$7,461	13.37%	2,975	$24.61	-0.69%	
+EVMT	Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF	$6,804	3.70%	2,022	$15.14	0.60%	
+ZSB	USCF Sustainable Battery Metals Strategy Fund	$1,369	5.91%	5,140	$13.72	0.15%	
+PHYS	Sprott Physical Gold Trust	N/A	28.65%	5,210,481	$25.91	-1.45%
+GLD	SPDR Gold Shares	$102,535,000	28.77%	12,419,471	$311.78	-1.43%	
+IAU	iShares Gold Trust	$47,534,000	28.86%	9,036,029	$63.80	-1.45%	
+SLV	iShares Silver Trust	$17,069,900	25.45%	21,959,660	$33.03	0.18%	
+GLDM	SPDR Gold Minishares Trust of beneficial interest	$15,706,800	28.91%	4,611,648	$67.02	-1.40%	
+SGOL	abrdn Physical Gold Shares ETF	$5,276,450	28.86%	4,907,480	$32.28	-1.44%	
+SIVR	abrdn Physical Silver Shares ETF	$1,910,970	26.01%	836,745	$34.74	0.46%	
+OUNZ	VanEck Merk Gold ETF	$1,745,060	28.93%	1,061,383	$32.62	-1.42%	
+AAAU	Goldman Sachs Physical Gold ETF	$1,509,910	28.88%	2,311,999	$33.42	-1.45%	
+PPLT	abrdn Physical Platinum Shares ETF	$1,496,130	36.97%	301,535	$113.75	1.55%	
+GLTR	abrdn Physical Precious Metals Basket Shares ETF	$1,445,560	27.35%	53,832	$139.83	-0.94%	
+BAR	GraniteShares Gold Trust	$1,140,640	28.93%	748,162	$33.38	-1.45%	
+PALL	abrdn Physical Palladium Shares ETF	$457,895	12.98%	174,458	$94.36	-0.05%	
+IGLD	FT Vest Gold Strategy Target Income ETF	$222,038	21.05%	119,018	$22.04	-1.25%	
+SLVO	UBS AG ETRACS Silver Shares Covered Call ETNs due April 21, 2033	$201,460	11.14%	38,120	$81.20	0.21%	
+DBP	Invesco DB Precious Metals Fund	$191,476	26.09%	28,891	$76.57	-1.24%	
+GLDI	UBS AG ETRACS Gold Shares Covered Call ETNs due February 2, 2033	$113,404	6.55%	8,718	$163.56	-0.75%	
+BGLD	FT Vest Gold Strategy Quarterly Buffer ETF	$75,106	18.72%	37,923	$21.79	-0.95%	
+PLTM	GraniteShares Platinum Trust	$72,144	36.97%	230,188	$12.04	1.69%	
+GBUG	Sprott Active Gold & Silver Miners ETF	$46,515	N/A	45,691	$26.54	-1.34%	
+PSLV	The Sprott Physical Silver Trust	N/A	26.63%	39,746,308	$12.22	0.25%
+CPER	United States Copper Index Fund	$198,706	20.03%	197,409	$30.20	1.44%	
+DBB	Invesco DB Base Metals Fund	$108,887	-0.48%	71,228	$18.76	1.30%
+DBA	Invesco DB Agriculture Fund	Broad Agriculture	$844.51	2.18%	303,000	$27.17	0.78%	
+WEAT	Teucrium Wheat Fund	Wheat	$121.36	-5.39%	867,645	$4.56	-1.30%	
+FAAR	First Trust Alternative Absolute Return Strategy ETF	Broad Agriculture	$101.00	2.10%	18,608	$28.45	-0.14%	
+CORN	Teucrium Corn Fund	Corn	$47.84	-3.62%	74,112	$18.09	-1.63%	
+SOYB	Teucrium Soybean Fund	Soybeans	$26.17	4.19%	24,748	$22.38	0.40%	
+TAGS	Teucrium Agricultural Fund	Broad Agriculture	$8.97	-1.32%	2,031	$24.79	0.16%	
+TILL	Teucrium Agricultural Strategy No K-1 ETF	Broad Agriculture	$3.74	0.51%	4,102	$18.69	0.16%
+Symbol
+ETF Name
+Commodity
+Total Assets ($MM)
+YTD
+Avg Volume
+Previous Closing Price
+1-Day Change
+Overall Rating
+USO	United States Oil Fund LP	Crude Oil	$1,195.29	4.02%	5,881,548	$78.59	-2.03%	
+UCO	ProShares Ultra Bloomberg Crude Oil	Crude Oil	$459.87	-6.22%	2,556,051	$25.79	-1.26%	
+UNG	United States Natural Gas Fund LP	Natural Gas	$347.39	1.01%	6,614,785	$16.98	3.79%	
+KOLD	ProShares UltraShort Bloomberg Natural Gas	Natural Gas	$329.48	-48.29%	7,147,974	$22.10	-7.30%	
+BOIL	ProShares Ultra Bloomberg Natural Gas	Natural Gas	$235.50	1.07%	2,432,572	$56.42	7.36%	
+DBO	Invesco DB Oil Fund	Crude Oil	$223.97	-0.84%	378,418	$14.19	-0.91%	
+KRBN	KraneShares Global Carbon Strategy ETF	Carbon Allowances	$166.31	4.09%	43,177	$30.51	-0.84%	
+SCO	ProShares UltraShort Bloomberg Crude Oil	Crude Oil	$160.72	-4.85%	1,814,357	$16.10	1.00%	
+KCCA	KraneShares California Carbon Allowance Strategy ETF	Carbon Allowances	$98.85	-25.18%	43,658	$14.68	0.20%	
+BNO	United States Brent Oil Fund LP	Brent Oil	$97.13	4.51%	769,909	$31.30	-1.76%	
+UGA	United States Gasoline Fund LP	Gasoline	$77.18	1.57%	22,575	$63.98	-0.09%	
+OILK	ProShares K-1 Free Crude Oil ETF of Benef Interest	Crude Oil	$74.96	-0.62%	28,823	$42.96	-0.49%	
+DBE	Invesco DB Energy Fund	Broad Energy	$52.31	6.31%	23,658	$19.72	-0.20%	
+USL	United States 12 Month Oil Fund LP	Crude Oil	$43.35	-1.42%	11,185	$37.48	-0.40%	
+OILU	MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN	Crude Oil	$36.76	-12.18%	255,278	$24.22	-1.18%	
+GRN	iPath Series B Carbon Exchange-Traded Notes	Carbon Allowances	$15.95	3.80%	3,700	$29.51	-0.77%	
+WTIU	MicroSectors Energy 3X Leveraged ETNs	Crude Oil	$15.81	-8.23%	77,752	$10.48	-0.38%	
+UNL	United States 12 Month Natural Gas Fund LP	Natural Gas	$12.14	12.82%	47,526	$9.22	2.22%	
+OILD	MicroSectors Oil & Gas Exp. & Prod. -3x Inverse Leveraged ETN	Crude Oil	$12.09	-30.18%	250,232	$12.22	1.33%	
+KEUA	KraneShares European Carbon Allowance Strategy ETF	Carbon Allowances	$7.46	13.37%	2,975	$24.61	-0.69%	
+WTID	MicroSectors Energy 3X Inverse Leveraged ETNs	Crude Oil	$2.14	-35.67%	5,638	$13.44	-0.67%
